@@ -1,0 +1,1001 @@
+﻿Order ID,Product,Quantity,Price,Order Date,Address,City,State,Postal Code,Payment
+100001,Kindle Paperwhite,7,127899.18,01-01-2023,123 Main St,Delhi,UP,668196,PhonePe
+100002,AirPods,5,41871.32,01-01-2023,123 Main St,Mumbai,UP,845974,Cash
+100003,Sony Headphones,2,13858.28,01-01-2023,123 Main St,Pune,WB,362315,Apple Pay
+100004,USB-C Cable,4,41000.52,01-01-2023,123 Main St,Chennai,KA,488884,PayPal
+100005,Apple Watch,7,91226.11,01-01-2023,123 Main St,Chennai,RJ,790923,Google Pay
+100006,Flatscreen TV,1,106757.19,02-01-2023,123 Main St,Ahmedabad,PB,607452,Net Banking
+100007,Washing Machine,1,17830.75,02-01-2023,123 Main St,Delhi,UP,237101,Apple Pay
+100008,Nintendo Switch,1,85737.01,02-01-2023,123 Main St,Jaipur,BR,209348,PhonePe
+100009,Kindle Paperwhite,1,93194.63,02-01-2023,123 Main St,Kolkata,TG,883431,PhonePe
+100010,PlayStation 5,1,96475.32,02-01-2023,123 Main St,Hyderabad,KA,569379,Google Pay
+100011,Nintendo Switch,1,136241.64,03-01-2023,123 Main St,Kolkata,RJ,627728,PhonePe
+100012,Macbook Pro,1,26536.71,03-01-2023,123 Main St,Surat,BR,630187,Google Pay
+100013,Nintendo Switch,1,144838,03-01-2023,123 Main St,Chennai,BR,178197,PayPal
+100014,Washing Machine,1,41820.18,03-01-2023,123 Main St,Kolkata,TN,576164,Apple Pay
+100015,Sony Headphones,1,96099.26,03-01-2023,123 Main St,Jaipur,BR,145900,Net Banking
+100016,Macbook Pro,1,90762.43,04-01-2023,123 Main St,Bengaluru,PB,258571,Google Pay
+100017,Samsung Galaxy S23,1,101635.14,04-01-2023,123 Main St,Pune,GJ,350786,Google Pay
+100018,iPad Air,1,37313.95,04-01-2023,123 Main St,Jaipur,MP,627195,PayPal
+100019,Washing Machine,1,34578.45,04-01-2023,123 Main St,Pune,WB,927551,Cash
+100020,Nintendo Switch,1,137553.56,04-01-2023,123 Main St,Delhi,KA,685061,UPI
+100021,Bluetooth Speaker,1,72394.17,05-01-2023,123 Main St,Mumbai,UP,162287,PayPal
+100022,Washing Machine,9,125828.83,05-01-2023,123 Main St,Delhi,TG,486509,Net Banking
+100023,Washing Machine,1,69268.53,05-01-2023,123 Main St,Kolkata,WB,931762,Net Banking
+100024,Washing Machine,4,121033.65,05-01-2023,123 Main St,Jaipur,MP,268601,Bank Transfer
+100025,iPad Air,1,63748.57,06-01-2023,123 Main St,Surat,DL,236996,Cash
+100026,Samsung Galaxy S23,4,26855.45,06-01-2023,123 Main St,Hyderabad,DL,450593,PayPal
+100027,Sony Headphones,9,94598.71,06-01-2023,123 Main St,Jaipur,WB,842415,PhonePe
+100028,Sony Headphones,1,137364.23,06-01-2023,123 Main St,Lucknow,GJ,208641,Debit Card
+100029,iPad Air,6,116090.65,06-01-2023,123 Main St,Jaipur,BR,522325,PhonePe
+100030,PlayStation 5,8,20855.3,07-01-2023,123 Main St,Jaipur,RJ,390024,PayPal
+100031,Macbook Pro,3,91815.14,07-01-2023,123 Main St,Chennai,UP,972422,Cash
+100032,Washing Machine,1,36262.32,07-01-2023,123 Main St,Chennai,PB,224007,Apple Pay
+100033,Nintendo Switch,7,34276.38,07-01-2023,123 Main St,Ahmedabad,BR,604659,PayPal
+100034,Nintendo Switch,8,144759.28,07-01-2023,123 Main St,Jaipur,RJ,279977,PhonePe
+100035,USB-C Cable,4,43567.97,08-01-2023,123 Main St,Pune,GJ,519352,UPI
+100036,Sony Headphones,4,63828.05,08-01-2023,123 Main St,Chennai,KA,581298,Apple Pay
+100037,Sony Headphones,7,79195.62,08-01-2023,123 Main St,Jaipur,DL,622102,PhonePe
+100038,PlayStation 5,1,39947.52,08-01-2023,123 Main St,Mumbai,MP,397325,Cash
+100039,iPhone 14,2,122242.49,08-01-2023,123 Main St,Lucknow,MH,920269,Cryptocurrency
+100040,PlayStation 5,5,93031.63,09-01-2023,123 Main St,Bengaluru,WB,933567,Net Banking
+100041,iPhone 14,8,73255.37,09-01-2023,123 Main St,Hyderabad,UP,202475,Bank Transfer
+100042,Sony Headphones,3,7475.96,09-01-2023,123 Main St,Delhi,MP,319873,Google Pay
+100043,Macbook Pro,6,63007.88,09-01-2023,123 Main St,Bengaluru,MH,807667,PhonePe
+100044,PlayStation 5,5,50316.25,09-01-2023,123 Main St,Surat,TN,736344,Google Pay
+100045,Nintendo Switch,5,127997.96,10-01-2023,123 Main St,Pune,UP,876781,UPI
+100046,Samsung Galaxy S23,5,14635.55,10-01-2023,123 Main St,Surat,PB,193392,Debit Card
+100047,AirPods,7,126291.73,10-01-2023,123 Main St,Surat,DL,364746,Net Banking
+100048,Macbook Pro,1,107977.3,10-01-2023,123 Main St,Kolkata,TN,851761,Cash
+100049,Kindle Paperwhite,1,130589.08,11-01-2023,123 Main St,Lucknow,TN,463115,Debit Card
+100050,iPhone 14,7,61198.3,11-01-2023,123 Main St,Mumbai,KA,361222,Bank Transfer
+100051,AirPods,7,77905.64,11-01-2023,123 Main St,Hyderabad,DL,851461,PayPal
+100052,Macbook Pro,7,136482.19,11-01-2023,123 Main St,Lucknow,BR,413311,Credit Card
+100053,Macbook Pro,7,130706.16,11-01-2023,123 Main St,Ahmedabad,MP,252200,Debit Card
+100054,iPad Air,9,5058.94,12-01-2023,123 Main St,Ahmedabad,DL,911228,Credit Card
+100055,Samsung Galaxy S23,6,87795.66,12-01-2023,123 Main St,Kanpur,GJ,624769,Net Banking
+100056,Bluetooth Speaker,2,128234.21,12-01-2023,123 Main St,Hyderabad,MP,939666,Cash
+100057,Sony Headphones,1,86029.28,12-01-2023,123 Main St,Delhi,RJ,571593,UPI
+100058,PlayStation 5,2,50485.37,12-01-2023,123 Main St,Kanpur,TN,502445,Debit Card
+100059,Macbook Pro,1,124468.46,13-01-2023,123 Main St,Bengaluru,DL,343456,PayPal
+100060,Apple Watch,7,72711.86,13-01-2023,123 Main St,Chennai,RJ,168441,PhonePe
+100061,iPad Air,5,66458.45,13-01-2023,123 Main St,Surat,TN,591278,PhonePe
+100062,iPad Air,6,70674.76,13-01-2023,123 Main St,Jaipur,TG,965175,UPI
+100063,Kindle Paperwhite,4,86989.57,13-01-2023,123 Main St,Kanpur,TN,162234,PayPal
+100064,Macbook Pro,9,27090.37,14-01-2023,123 Main St,Surat,RJ,782204,UPI
+100065,Washing Machine,2,47100.53,14-01-2023,123 Main St,Bengaluru,WB,787204,Cash
+100066,Samsung Galaxy S23,2,113500.23,14-01-2023,123 Main St,Jaipur,MH,249643,Cryptocurrency
+100067,Apple Watch,2,85200.86,14-01-2023,123 Main St,Pune,WB,201119,Google Pay
+100068,Kindle Paperwhite,2,69180.04,14-01-2023,123 Main St,Surat,MP,215500,UPI
+100069,Dell XPS 15,1,125087.04,15-01-2023,123 Main St,Delhi,MH,911262,Cash
+100070,Macbook Pro,7,22362.54,15-01-2023,123 Main St,Bengaluru,TG,152055,Cryptocurrency
+100071,Bluetooth Speaker,8,48036.67,15-01-2023,123 Main St,Chennai,PB,567599,Google Pay
+100072,PlayStation 5,8,116981.9,15-01-2023,123 Main St,Chennai,MH,795687,PayPal
+100073,Bluetooth Speaker,4,32041.41,16-01-2023,123 Main St,Ahmedabad,PB,792354,Cash
+100074,Apple Watch,2,58583.95,16-01-2023,123 Main St,Pune,DL,896589,UPI
+100075,Flatscreen TV,8,69981.18,16-01-2023,123 Main St,Chennai,PB,465410,Google Pay
+100076,USB-C Cable,8,76979.26,16-01-2023,123 Main St,Kanpur,MH,755744,Cryptocurrency
+100077,Washing Machine,1,66801.94,16-01-2023,123 Main St,Kolkata,BR,981618,Cash
+100078,Bluetooth Speaker,3,121663.91,17-01-2023,123 Main St,Surat,RJ,693086,Google Pay
+100079,iPad Air,4,49780.36,17-01-2023,123 Main St,Surat,PB,660176,PhonePe
+100080,AirPods,6,98065.8,17-01-2023,123 Main St,Ahmedabad,WB,205675,Bank Transfer
+100081,AirPods,9,88920.3,17-01-2023,123 Main St,Delhi,PB,149226,PhonePe
+100082,iPad Air,3,32253.57,17-01-2023,123 Main St,Bengaluru,UP,391259,Debit Card
+100083,Flatscreen TV,8,21742.3,18-01-2023,123 Main St,Lucknow,UP,165381,Debit Card
+100084,USB-C Cable,8,92655.99,18-01-2023,123 Main St,Lucknow,KA,290160,Credit Card
+100085,iPad Air,8,118977.32,18-01-2023,123 Main St,Hyderabad,MH,678982,Debit Card
+100086,Flatscreen TV,9,97780.38,18-01-2023,123 Main St,Kolkata,RJ,572732,Bank Transfer
+100087,iPhone 14,9,23702.26,18-01-2023,123 Main St,Ahmedabad,DL,801153,PhonePe
+100088,Macbook Pro,6,57138.47,19-01-2023,123 Main St,Surat,WB,994136,Net Banking
+100089,Washing Machine,7,120519.56,19-01-2023,123 Main St,Lucknow,TN,825887,PhonePe
+100090,AirPods,1,20841.26,19-01-2023,123 Main St,Chennai,TG,264188,PhonePe
+100091,Dell XPS 15,1,112169.72,19-01-2023,123 Main St,Lucknow,UP,550690,Net Banking
+100092,Macbook Pro,9,67260.66,19-01-2023,123 Main St,Ahmedabad,UP,565502,PayPal
+100093,AirPods,4,135755.43,20-01-2023,123 Main St,Jaipur,GJ,770965,Bank Transfer
+100094,Washing Machine,9,26770.5,20-01-2023,123 Main St,Bengaluru,TG,895412,Net Banking
+100095,USB-C Cable,3,135540.97,20-01-2023,123 Main St,Hyderabad,UP,272645,Bank Transfer
+100096,AirPods,6,105423.83,20-01-2023,123 Main St,Hyderabad,RJ,889268,PayPal
+100097,Bluetooth Speaker,1,68301.76,21-01-2023,123 Main St,Chennai,TN,552326,Cash
+100098,Washing Machine,3,30221.48,21-01-2023,123 Main St,Ahmedabad,GJ,148301,Net Banking
+100099,PlayStation 5,7,2419.84,21-01-2023,123 Main St,Chennai,UP,215345,Google Pay
+100100,Nintendo Switch,8,149258.84,21-01-2023,123 Main St,Kanpur,PB,705689,Credit Card
+100101,Flatscreen TV,8,18080.48,21-01-2023,123 Main St,Bengaluru,TN,148171,Debit Card
+100102,Sony Headphones,3,109117.49,22-01-2023,123 Main St,Bengaluru,GJ,601353,Cash
+100103,USB-C Cable,4,27260.43,22-01-2023,123 Main St,Chennai,MH,808539,Cash
+100104,PlayStation 5,8,44450.38,22-01-2023,123 Main St,Hyderabad,PB,871132,Apple Pay
+100105,Bluetooth Speaker,3,8078.24,22-01-2023,123 Main St,Pune,TN,217534,PhonePe
+100106,Washing Machine,6,45371.01,22-01-2023,123 Main St,Jaipur,BR,737268,PhonePe
+100107,Flatscreen TV,2,141206.98,23-01-2023,123 Main St,Jaipur,MP,191985,Google Pay
+100108,Flatscreen TV,1,122444.51,23-01-2023,123 Main St,Mumbai,BR,410268,Cryptocurrency
+100109,AirPods,7,147663.88,23-01-2023,123 Main St,Ahmedabad,GJ,936546,Credit Card
+100110,AirPods,6,38866.39,23-01-2023,123 Main St,Jaipur,GJ,421510,Apple Pay
+100111,Samsung Galaxy S23,6,91865.64,23-01-2023,123 Main St,Lucknow,KA,278879,Credit Card
+100112,PlayStation 5,5,9454.37,24-01-2023,123 Main St,Surat,BR,374371,Debit Card
+100113,Dell XPS 15,4,73120.86,24-01-2023,123 Main St,Lucknow,TN,743661,PhonePe
+100114,Flatscreen TV,2,45265.7,24-01-2023,123 Main St,Lucknow,TN,417999,Bank Transfer
+100115,Nintendo Switch,1,21840.54,24-01-2023,123 Main St,Lucknow,DL,921723,Credit Card
+100116,Dell XPS 15,2,109352.17,24-01-2023,123 Main St,Lucknow,MH,656398,Cash
+100117,iPad Air,7,111519.51,25-01-2023,123 Main St,Pune,GJ,506629,Cryptocurrency
+100118,iPad Air,8,113688.75,25-01-2023,123 Main St,Chennai,UP,125900,Apple Pay
+100119,Samsung Galaxy S23,5,18179.02,25-01-2023,123 Main St,Surat,TN,160607,Apple Pay
+100120,iPad Air,5,3401.47,25-01-2023,123 Main St,Jaipur,MH,348882,UPI
+100121,AirPods,7,88644.06,26-01-2023,123 Main St,Delhi,TN,191747,Cash
+100122,Dell XPS 15,6,98547.78,26-01-2023,123 Main St,Chennai,WB,479254,Cash
+100123,Kindle Paperwhite,3,7352.79,26-01-2023,123 Main St,Kanpur,MH,544901,UPI
+100124,Kindle Paperwhite,4,133372.86,26-01-2023,123 Main St,Bengaluru,PB,584332,PhonePe
+100125,iPhone 14,4,98504.03,26-01-2023,123 Main St,Surat,WB,296357,PayPal
+100126,Samsung Galaxy S23,3,126681.26,27-01-2023,123 Main St,Pune,GJ,433968,Cryptocurrency
+100127,PlayStation 5,1,55042.9,27-01-2023,123 Main St,Pune,WB,700635,PayPal
+100128,Dell XPS 15,7,124654.88,27-01-2023,123 Main St,Pune,DL,820897,Credit Card
+100129,AirPods,6,125508.37,27-01-2023,123 Main St,Lucknow,PB,194366,Apple Pay
+100130,USB-C Cable,1,73373.4,27-01-2023,123 Main St,Hyderabad,DL,300754,Credit Card
+100131,AirPods,1,82112.72,28-01-2023,123 Main St,Hyderabad,DL,292209,Cash
+100132,Samsung Galaxy S23,6,109605.83,28-01-2023,123 Main St,Hyderabad,GJ,383856,PayPal
+100133,Dell XPS 15,3,125993.78,28-01-2023,123 Main St,Kanpur,TG,243565,UPI
+100134,USB-C Cable,7,39842.92,28-01-2023,123 Main St,Kanpur,RJ,263161,Cash
+100135,Samsung Galaxy S23,7,129119.4,28-01-2023,123 Main St,Bengaluru,WB,440709,Apple Pay
+100136,iPhone 14,6,48182.33,29-01-2023,123 Main St,Kanpur,GJ,835408,Credit Card
+100137,USB-C Cable,4,125313.49,29-01-2023,123 Main St,Ahmedabad,WB,531179,Credit Card
+100138,Macbook Pro,9,109089.34,29-01-2023,123 Main St,Pune,MP,958614,PhonePe
+100139,Washing Machine,3,51938.49,29-01-2023,123 Main St,Mumbai,MH,980428,Net Banking
+100140,AirPods,8,149377.26,29-01-2023,123 Main St,Bengaluru,KA,984985,PayPal
+100141,Nintendo Switch,8,101197.34,30-01-2023,123 Main St,Pune,DL,854296,PhonePe
+100142,PlayStation 5,5,115567.67,30-01-2023,123 Main St,Surat,WB,817324,PayPal
+100143,PlayStation 5,5,11883.66,30-01-2023,123 Main St,Kanpur,BR,883966,Cryptocurrency
+100144,iPad Air,3,17768.33,30-01-2023,123 Main St,Delhi,DL,730819,UPI
+100145,Bluetooth Speaker,4,134809.44,31-01-2023,123 Main St,Bengaluru,KA,254185,PayPal
+100146,Kindle Paperwhite,9,102210.6,31-01-2023,123 Main St,Kanpur,PB,289449,Cash
+100147,Washing Machine,2,37034.58,31-01-2023,123 Main St,Hyderabad,UP,689800,Cryptocurrency
+100148,Kindle Paperwhite,4,16165.94,31-01-2023,123 Main St,Chennai,WB,471541,Net Banking
+100149,iPhone 14,2,102949.4,31-01-2023,123 Main St,Mumbai,TG,454400,UPI
+100150,iPhone 14,6,101867.86,01-02-2023,123 Main St,Jaipur,BR,575573,Apple Pay
+100151,Nintendo Switch,9,143905.69,01-02-2023,123 Main St,Delhi,MH,315415,Cash
+100152,Samsung Galaxy S23,8,41598.22,01-02-2023,123 Main St,Chennai,KA,925039,Google Pay
+100153,Bluetooth Speaker,3,104466.16,01-02-2023,123 Main St,Bengaluru,RJ,598520,Cryptocurrency
+100154,Kindle Paperwhite,8,77397.3,01-02-2023,123 Main St,Bengaluru,WB,367237,Apple Pay
+100155,iPhone 14,7,78034.89,02-02-2023,123 Main St,Kolkata,RJ,638280,Cash
+100156,iPhone 14,3,49210.49,02-02-2023,123 Main St,Hyderabad,RJ,577192,Bank Transfer
+100157,Flatscreen TV,2,117022.96,02-02-2023,123 Main St,Surat,GJ,911754,Cryptocurrency
+100158,AirPods,6,125887.26,02-02-2023,123 Main St,Mumbai,TN,171876,Cryptocurrency
+100159,Washing Machine,5,89054.96,02-02-2023,123 Main St,Pune,TN,476629,Apple Pay
+100160,Flatscreen TV,9,66986.8,03-02-2023,123 Main St,Kolkata,MP,460669,Debit Card
+100161,iPad Air,8,27379.94,03-02-2023,123 Main St,Bengaluru,UP,596755,Cash
+100162,Macbook Pro,1,41326.32,03-02-2023,123 Main St,Surat,WB,921987,PayPal
+100163,Washing Machine,8,119128.43,03-02-2023,123 Main St,Kolkata,KA,217538,UPI
+100164,Macbook Pro,8,102177.15,03-02-2023,123 Main St,Chennai,MP,695990,Debit Card
+100165,AirPods,9,132342.66,04-02-2023,123 Main St,Kanpur,PB,215646,PhonePe
+100166,USB-C Cable,7,95226.28,04-02-2023,123 Main St,Bengaluru,MP,142576,PhonePe
+100167,PlayStation 5,2,46232.8,04-02-2023,123 Main St,Chennai,RJ,499538,Cash
+100168,Dell XPS 15,1,114033.86,04-02-2023,123 Main St,Pune,RJ,894442,Cryptocurrency
+100169,PlayStation 5,4,56936.14,05-02-2023,123 Main St,Bengaluru,RJ,159758,Cryptocurrency
+100170,Macbook Pro,2,55225.46,05-02-2023,123 Main St,Chennai,TN,866411,Bank Transfer
+100171,Washing Machine,5,88163.77,05-02-2023,123 Main St,Kolkata,UP,315998,UPI
+100172,iPad Air,3,42482.18,05-02-2023,123 Main St,Surat,RJ,602904,Google Pay
+100173,Washing Machine,7,116166.82,05-02-2023,123 Main St,Delhi,UP,143498,PayPal
+100174,Apple Watch,2,54361.39,06-02-2023,123 Main St,Hyderabad,TN,973466,Apple Pay
+100175,Macbook Pro,2,8813.39,06-02-2023,123 Main St,Surat,KA,469234,Apple Pay
+100176,Flatscreen TV,2,63924.1,06-02-2023,123 Main St,Hyderabad,RJ,562998,PhonePe
+100177,Nintendo Switch,2,61201.7,06-02-2023,123 Main St,Pune,UP,407654,Cash
+100178,PlayStation 5,8,129108.72,06-02-2023,123 Main St,Pune,TN,883553,Google Pay
+100179,iPhone 14,6,118669.77,07-02-2023,123 Main St,Hyderabad,UP,859234,PayPal
+100180,iPhone 14,6,121398.45,07-02-2023,123 Main St,Hyderabad,UP,868710,Google Pay
+100181,Macbook Pro,6,4635.26,07-02-2023,123 Main St,Pune,BR,480911,Debit Card
+100182,iPhone 14,2,140762.64,07-02-2023,123 Main St,Ahmedabad,TG,423804,Debit Card
+100183,Washing Machine,9,103206.39,07-02-2023,123 Main St,Kolkata,MH,556639,PhonePe
+100184,Flatscreen TV,3,147153.25,08-02-2023,123 Main St,Chennai,WB,487641,Apple Pay
+100185,Bluetooth Speaker,8,107950.67,08-02-2023,123 Main St,Hyderabad,GJ,183070,Bank Transfer
+100186,Samsung Galaxy S23,6,70780.62,08-02-2023,123 Main St,Kanpur,UP,388475,Bank Transfer
+100187,Dell XPS 15,8,127632.44,08-02-2023,123 Main St,Bengaluru,TN,356796,Google Pay
+100188,iPhone 14,6,63145.29,08-02-2023,123 Main St,Jaipur,PB,640625,Cash
+100189,Washing Machine,7,115238.61,09-02-2023,123 Main St,Kanpur,UP,600476,Google Pay
+100190,Samsung Galaxy S23,1,88993.64,09-02-2023,123 Main St,Surat,TN,244851,Cryptocurrency
+100191,PlayStation 5,9,122309.01,09-02-2023,123 Main St,Hyderabad,WB,266611,Debit Card
+100192,Sony Headphones,7,119280.96,09-02-2023,123 Main St,Mumbai,WB,996069,Cryptocurrency
+100193,AirPods,1,68372.67,10-02-2023,123 Main St,Bengaluru,BR,867111,Cash
+100194,iPhone 14,3,39568.54,10-02-2023,123 Main St,Delhi,BR,151262,Credit Card
+100195,Bluetooth Speaker,7,53594.47,10-02-2023,123 Main St,Kanpur,BR,746954,Debit Card
+100196,PlayStation 5,1,118587.8,10-02-2023,123 Main St,Mumbai,GJ,539307,Bank Transfer
+100197,Dell XPS 15,9,89674.09,10-02-2023,123 Main St,Ahmedabad,RJ,715436,Credit Card
+100198,Bluetooth Speaker,7,53935.26,11-02-2023,123 Main St,Pune,MP,436200,Cryptocurrency
+100199,iPhone 14,4,5254.41,11-02-2023,123 Main St,Jaipur,MP,546716,PhonePe
+100200,Apple Watch,4,97252.09,11-02-2023,123 Main St,Bengaluru,UP,751053,UPI
+100201,PlayStation 5,9,78464.13,11-02-2023,123 Main St,Delhi,TN,838478,Google Pay
+100202,Apple Watch,9,78464.13,11-02-2023,123 Main St,Delhi,TN,370361,UPI
+100203,Kindle Paperwhite,6,78464.13,12-02-2023,123 Main St,Pune,GJ,156969,Cryptocurrency
+100204,iPad Air,6,78464.13,12-02-2023,123 Main St,Delhi,TN,478723,Google Pay
+100205,Apple Watch,8,78464.13,12-02-2023,123 Main St,Kolkata,MH,163316,Google Pay
+100206,Nintendo Switch,8,78464.13,12-02-2023,123 Main St,Lucknow,GJ,739541,Net Banking
+100207,Bluetooth Speaker,3,78464.13,12-02-2023,123 Main St,Hyderabad,TN,591095,Cash
+100208,Kindle Paperwhite,3,78464.13,13-02-2023,123 Main St,Delhi,TG,275989,Net Banking
+100209,iPhone 14,5,78464.13,13-02-2023,123 Main St,Pune,DL,308901,Google Pay
+100210,AirPods,3,78464.13,13-02-2023,123 Main St,Bengaluru,PB,728916,Cryptocurrency
+100211,Samsung Galaxy S23,6,78464.13,13-02-2023,123 Main St,Chennai,WB,352521,Debit Card
+100212,Flatscreen TV,1,78464.13,13-02-2023,123 Main St,Surat,GJ,871907,Debit Card
+100213,Sony Headphones,8,78464.13,14-02-2023,123 Main St,Lucknow,MH,610676,Cash
+100214,Sony Headphones,1,78464.13,14-02-2023,123 Main St,Hyderabad,WB,341226,Google Pay
+100215,Kindle Paperwhite,2,78464.13,14-02-2023,123 Main St,Pune,UP,522812,Apple Pay
+100216,AirPods,6,78464.13,14-02-2023,123 Main St,Surat,RJ,255997,Net Banking
+100217,Apple Watch,4,78464.13,15-02-2023,123 Main St,Lucknow,PB,425255,Cryptocurrency
+100218,Washing Machine,2,78464.13,15-02-2023,123 Main St,Kolkata,UP,562831,Cash
+100219,PlayStation 5,7,78464.13,15-02-2023,123 Main St,Delhi,BR,977942,Cryptocurrency
+100220,Washing Machine,7,78464.13,15-02-2023,123 Main St,Mumbai,MH,529341,UPI
+100221,Sony Headphones,3,78464.13,15-02-2023,123 Main St,Jaipur,UP,272649,Credit Card
+100222,Apple Watch,1,74232.19,16-02-2023,123 Main St,Pune,WB,378544,Bank Transfer
+100223,Nintendo Switch,9,119586.57,16-02-2023,123 Main St,Lucknow,RJ,347767,PayPal
+100224,Dell XPS 15,7,40064.37,16-02-2023,123 Main St,Hyderabad,WB,809043,Credit Card
+100225,Flatscreen TV,5,54547.64,16-02-2023,123 Main St,Kolkata,TG,903256,Debit Card
+100226,Kindle Paperwhite,6,3239.17,16-02-2023,123 Main St,Ahmedabad,DL,180794,Cash
+100227,Dell XPS 15,5,97419.54,17-02-2023,123 Main St,Surat,MP,885946,Apple Pay
+100228,Apple Watch,1,58141.5,17-02-2023,123 Main St,Chennai,DL,170287,Bank Transfer
+100229,Bluetooth Speaker,6,108217.65,17-02-2023,123 Main St,Chennai,WB,441299,Debit Card
+100230,Dell XPS 15,9,74509.8,17-02-2023,123 Main St,Surat,MH,782273,Cryptocurrency
+100231,Kindle Paperwhite,9,104291.64,17-02-2023,123 Main St,Kolkata,PB,576628,Google Pay
+100232,Bluetooth Speaker,4,69752.06,18-02-2023,123 Main St,Pune,DL,491043,Credit Card
+100233,PlayStation 5,4,32927.09,18-02-2023,123 Main St,Ahmedabad,DL,764236,Apple Pay
+100234,Flatscreen TV,3,135371.69,18-02-2023,123 Main St,Delhi,BR,185283,UPI
+100235,PlayStation 5,2,110929.94,18-02-2023,123 Main St,Jaipur,GJ,876549,PayPal
+100236,Kindle Paperwhite,8,38321.28,18-02-2023,123 Main St,Hyderabad,TG,730837,Apple Pay
+100237,Flatscreen TV,1,135975.66,19-02-2023,123 Main St,Delhi,KA,280466,Cash
+100238,Kindle Paperwhite,7,125319.73,19-02-2023,123 Main St,Hyderabad,RJ,838329,Google Pay
+100239,Sony Headphones,8,1824.18,19-02-2023,123 Main St,Mumbai,KA,834477,Debit Card
+100240,Kindle Paperwhite,5,113260.94,19-02-2023,123 Main St,Surat,RJ,712578,PhonePe
+100241,Kindle Paperwhite,2,55886.15,20-02-2023,123 Main St,Kanpur,PB,601028,Google Pay
+100242,PlayStation 5,7,130920.63,20-02-2023,123 Main St,Jaipur,DL,733098,Debit Card
+100243,Samsung Galaxy S23,6,102709.04,20-02-2023,123 Main St,Lucknow,TG,623603,Debit Card
+100244,Dell XPS 15,9,39862.67,20-02-2023,123 Main St,Ahmedabad,MP,722293,Net Banking
+100245,iPad Air,5,138502.34,20-02-2023,123 Main St,Delhi,TG,253230,Cryptocurrency
+100246,Washing Machine,3,54486.86,21-02-2023,123 Main St,Pune,MH,766807,PayPal
+100247,Nintendo Switch,7,42050.49,21-02-2023,123 Main St,Jaipur,GJ,851372,Debit Card
+100248,Nintendo Switch,5,131212.92,21-02-2023,123 Main St,Hyderabad,BR,926824,Credit Card
+100249,Bluetooth Speaker,8,59466.38,21-02-2023,123 Main St,Lucknow,GJ,311795,PayPal
+100250,Macbook Pro,6,40880.53,21-02-2023,123 Main St,Pune,MH,573677,PayPal
+100251,Washing Machine,5,104956.38,22-02-2023,123 Main St,Ahmedabad,RJ,291223,Debit Card
+100252,AirPods,2,67861.87,22-02-2023,123 Main St,Pune,TN,502366,Net Banking
+100253,Washing Machine,9,32400.34,22-02-2023,123 Main St,Kanpur,WB,123772,PayPal
+100254,Macbook Pro,7,148812.02,22-02-2023,123 Main St,Jaipur,GJ,739161,Bank Transfer
+100255,Kindle Paperwhite,7,101415.39,22-02-2023,123 Main St,Surat,KA,294761,Cash
+100256,iPad Air,6,118937.15,23-02-2023,123 Main St,Delhi,PB,643624,PayPal
+100257,Kindle Paperwhite,8,20953.82,23-02-2023,123 Main St,Delhi,TN,517710,Google Pay
+100258,Washing Machine,4,48820.21,23-02-2023,123 Main St,Jaipur,WB,560890,Credit Card
+100259,Samsung Galaxy S23,4,45822.53,23-02-2023,123 Main St,Jaipur,TG,409605,Google Pay
+100260,iPad Air,5,127284.27,23-02-2023,123 Main St,Kanpur,RJ,775542,PayPal
+100261,Macbook Pro,9,48976.54,24-02-2023,123 Main St,Chennai,WB,687038,Cryptocurrency
+100262,Kindle Paperwhite,5,113630.71,24-02-2023,123 Main St,Delhi,TG,243102,Cash
+100263,iPhone 14,4,85452.1,24-02-2023,123 Main St,Pune,DL,899773,PayPal
+100264,Flatscreen TV,9,98258.58,24-02-2023,123 Main St,Bengaluru,MH,243893,Google Pay
+100265,Bluetooth Speaker,1,14920.44,25-02-2023,123 Main St,Delhi,WB,163582,PayPal
+100266,iPhone 14,4,85625.6,25-02-2023,123 Main St,Delhi,BR,544112,Apple Pay
+100267,iPad Air,8,43010.19,25-02-2023,123 Main St,Hyderabad,WB,965302,UPI
+100268,Flatscreen TV,7,39395.06,25-02-2023,123 Main St,Kanpur,BR,306211,UPI
+100269,Macbook Pro,4,3537.86,25-02-2023,123 Main St,Bengaluru,WB,986597,Credit Card
+100270,iPhone 14,1,118354.66,26-02-2023,123 Main St,Delhi,MH,851501,UPI
+100271,Sony Headphones,4,111256.37,26-02-2023,123 Main St,Delhi,BR,984864,PhonePe
+100272,Sony Headphones,5,122847.93,26-02-2023,123 Main St,Kanpur,TG,647588,Bank Transfer
+100273,USB-C Cable,2,85617.34,26-02-2023,123 Main St,Hyderabad,BR,328741,Debit Card
+100274,USB-C Cable,7,5786,26-02-2023,123 Main St,Bengaluru,MH,418393,Net Banking
+100275,Apple Watch,5,50576.29,27-02-2023,123 Main St,Surat,BR,898182,Google Pay
+100276,Dell XPS 15,9,92417.54,27-02-2023,123 Main St,Pune,WB,905701,Credit Card
+100277,Sony Headphones,9,92827.02,27-02-2023,123 Main St,Bengaluru,GJ,538836,Net Banking
+100278,Washing Machine,2,123330.95,27-02-2023,123 Main St,Bengaluru,MP,384166,Bank Transfer
+100279,Nintendo Switch,5,58947.33,27-02-2023,123 Main St,Chennai,GJ,504674,Apple Pay
+100280,iPad Air,2,120832.46,28-02-2023,123 Main St,Kanpur,MP,107517,Apple Pay
+100281,Bluetooth Speaker,9,12462.13,28-02-2023,123 Main St,Delhi,TG,878822,Debit Card
+100282,Bluetooth Speaker,6,126432.97,28-02-2023,123 Main St,Kanpur,PB,261855,Debit Card
+100283,Sony Headphones,5,142008.63,28-02-2023,123 Main St,Chennai,MP,922271,PayPal
+100284,iPad Air,7,75126.59,28-02-2023,123 Main St,Jaipur,BR,900616,PayPal
+100285,AirPods,5,115488.37,01-03-2023,123 Main St,Surat,DL,556122,Apple Pay
+100286,Sony Headphones,9,98840.89,01-03-2023,123 Main St,Ahmedabad,RJ,650641,Apple Pay
+100287,Washing Machine,4,95256.28,01-03-2023,123 Main St,Bengaluru,PB,319341,Cash
+100288,AirPods,3,147044.61,01-03-2023,123 Main St,Lucknow,BR,820795,PhonePe
+100289,PlayStation 5,5,117085.33,02-03-2023,123 Main St,Kolkata,WB,458613,Cash
+100290,iPad Air,8,121517.28,02-03-2023,123 Main St,Hyderabad,PB,973078,Bank Transfer
+100291,Macbook Pro,6,51558.4,02-03-2023,123 Main St,Hyderabad,DL,851309,Apple Pay
+100292,Kindle Paperwhite,9,145970.97,02-03-2023,123 Main St,Mumbai,GJ,438219,Google Pay
+100293,Kindle Paperwhite,7,84544.24,02-03-2023,123 Main St,Hyderabad,TG,533608,UPI
+100294,Kindle Paperwhite,1,117234.94,03-03-2023,123 Main St,Hyderabad,WB,684705,Google Pay
+100295,Nintendo Switch,4,54327.51,03-03-2023,123 Main St,Lucknow,WB,320944,Apple Pay
+100296,Dell XPS 15,8,52735.82,03-03-2023,123 Main St,Jaipur,BR,823041,Debit Card
+100297,Macbook Pro,1,70129.36,03-03-2023,123 Main St,Pune,MP,631315,PayPal
+100298,Sony Headphones,1,39081.13,03-03-2023,123 Main St,Kolkata,MH,764067,Debit Card
+100299,USB-C Cable,6,115416.28,04-03-2023,123 Main St,Jaipur,GJ,300097,Apple Pay
+100300,Dell XPS 15,9,43132.82,04-03-2023,123 Main St,Jaipur,DL,510131,PayPal
+100301,USB-C Cable,2,106425.97,04-03-2023,123 Main St,Pune,DL,472797,Bank Transfer
+100302,Kindle Paperwhite,4,29381.87,04-03-2023,123 Main St,Mumbai,MH,354464,Cryptocurrency
+100303,Samsung Galaxy S23,7,106969.59,04-03-2023,123 Main St,Chennai,UP,437503,Credit Card
+100304,iPad Air,2,116753.43,05-03-2023,123 Main St,Pune,MH,561237,PhonePe
+100305,Macbook Pro,8,14764.1,05-03-2023,123 Main St,Surat,GJ,657400,Cryptocurrency
+100306,Washing Machine,6,101785.17,05-03-2023,123 Main St,Hyderabad,KA,159799,Cryptocurrency
+100307,Apple Watch,5,56419.93,05-03-2023,123 Main St,Bengaluru,KA,370478,Bank Transfer
+100308,Nintendo Switch,2,78007.71,05-03-2023,123 Main St,Hyderabad,RJ,317890,Cash
+100309,Nintendo Switch,1,76559.75,06-03-2023,123 Main St,Kolkata,BR,376869,Google Pay
+100310,Macbook Pro,3,82723.22,06-03-2023,123 Main St,Pune,PB,540299,Cash
+100311,Nintendo Switch,7,144043.87,06-03-2023,123 Main St,Kanpur,MP,844473,Debit Card
+100312,Macbook Pro,9,77990.17,06-03-2023,123 Main St,Chennai,MP,676161,PayPal
+100313,Sony Headphones,1,36822.07,07-03-2023,123 Main St,Pune,GJ,476488,Debit Card
+100314,Apple Watch,2,17742.62,07-03-2023,123 Main St,Bengaluru,PB,420242,Cryptocurrency
+100315,iPad Air,7,22053.97,07-03-2023,123 Main St,Delhi,MP,312416,Cryptocurrency
+100316,iPad Air,1,117290.25,07-03-2023,123 Main St,Mumbai,RJ,372509,Credit Card
+100317,Macbook Pro,1,90545.19,07-03-2023,123 Main St,Delhi,KA,984323,Debit Card
+100318,Samsung Galaxy S23,7,113021.96,08-03-2023,123 Main St,Kolkata,MP,416233,PayPal
+100319,USB-C Cable,1,114057.36,08-03-2023,123 Main St,Jaipur,WB,986027,Credit Card
+100320,Bluetooth Speaker,6,43312.56,08-03-2023,123 Main St,Kolkata,MH,783374,PhonePe
+100321,Nintendo Switch,4,53818.99,08-03-2023,123 Main St,Hyderabad,WB,888664,Cryptocurrency
+100322,Flatscreen TV,1,106104.57,08-03-2023,123 Main St,Surat,TN,999136,Cash
+100323,Flatscreen TV,9,113209.68,09-03-2023,123 Main St,Kolkata,TN,989625,Cryptocurrency
+100324,Washing Machine,6,128845,09-03-2023,123 Main St,Chennai,MH,136814,Debit Card
+100325,Nintendo Switch,6,35248.38,09-03-2023,123 Main St,Jaipur,KA,331687,Google Pay
+100326,iPhone 14,7,3760.12,09-03-2023,123 Main St,Jaipur,KA,811196,Debit Card
+100327,iPhone 14,1,126767.97,09-03-2023,123 Main St,Hyderabad,GJ,721105,UPI
+100328,Bluetooth Speaker,3,131177.99,10-03-2023,123 Main St,Hyderabad,MP,356829,Net Banking
+100329,PlayStation 5,3,90209.7,10-03-2023,123 Main St,Lucknow,BR,732429,Cash
+100330,AirPods,4,125971.37,10-03-2023,123 Main St,Pune,KA,635301,Apple Pay
+100331,Flatscreen TV,8,141329.64,10-03-2023,123 Main St,Ahmedabad,DL,993988,Bank Transfer
+100332,AirPods,4,18702.42,10-03-2023,123 Main St,Lucknow,GJ,777623,Credit Card
+100333,Flatscreen TV,3,52517.62,11-03-2023,123 Main St,Mumbai,DL,903049,Cash
+100334,Sony Headphones,7,130254.11,11-03-2023,123 Main St,Jaipur,WB,481290,Bank Transfer
+100335,Macbook Pro,8,69614.24,11-03-2023,123 Main St,Jaipur,UP,508296,Google Pay
+100336,iPad Air,6,93540.51,11-03-2023,123 Main St,Jaipur,GJ,257762,PhonePe
+100337,AirPods,4,3117.55,12-03-2023,123 Main St,Bengaluru,MH,381640,Cash
+100338,Kindle Paperwhite,7,149047.83,12-03-2023,123 Main St,Surat,MP,533399,PayPal
+100339,Kindle Paperwhite,9,148595.07,12-03-2023,123 Main St,Hyderabad,DL,947448,Cash
+100340,Washing Machine,5,1455.8,12-03-2023,123 Main St,Kanpur,GJ,874922,Bank Transfer
+100341,AirPods,6,118017.51,12-03-2023,123 Main St,Mumbai,BR,293037,Google Pay
+100342,USB-C Cable,1,111258.04,13-03-2023,123 Main St,Pune,TG,378298,PhonePe
+100343,PlayStation 5,1,116938.77,13-03-2023,123 Main St,Bengaluru,GJ,212691,Credit Card
+100344,iPad Air,9,106895.35,13-03-2023,123 Main St,Kolkata,BR,560354,Google Pay
+100345,Washing Machine,6,115835.75,13-03-2023,123 Main St,Ahmedabad,MP,192994,PhonePe
+100346,Macbook Pro,5,59891.59,13-03-2023,123 Main St,Jaipur,TN,519133,Credit Card
+100347,Nintendo Switch,9,144105.48,14-03-2023,123 Main St,Hyderabad,RJ,771098,Credit Card
+100348,Sony Headphones,6,133287.8,14-03-2023,123 Main St,Kanpur,DL,454677,Google Pay
+100349,Dell XPS 15,9,85163.11,14-03-2023,123 Main St,Kolkata,TN,892427,UPI
+100350,Washing Machine,7,66683.58,14-03-2023,123 Main St,Lucknow,WB,259390,Bank Transfer
+100351,Washing Machine,3,127723.26,14-03-2023,123 Main St,Pune,BR,950174,Bank Transfer
+100352,Dell XPS 15,5,60564.55,15-03-2023,123 Main St,Mumbai,MH,466225,PhonePe
+100353,Nintendo Switch,2,16709.15,15-03-2023,123 Main St,Bengaluru,TN,395512,PayPal
+100354,USB-C Cable,6,11089.22,15-03-2023,123 Main St,Lucknow,MH,457199,PhonePe
+100355,Bluetooth Speaker,8,1961.71,15-03-2023,123 Main St,Kolkata,WB,387005,Credit Card
+100356,Apple Watch,4,75403.91,15-03-2023,123 Main St,Bengaluru,MP,566822,Bank Transfer
+100357,Samsung Galaxy S23,6,119191.9,16-03-2023,123 Main St,Lucknow,GJ,738169,Cryptocurrency
+100358,Sony Headphones,9,136261.95,16-03-2023,123 Main St,Chennai,WB,237777,Bank Transfer
+100359,PlayStation 5,6,36164.47,16-03-2023,123 Main St,Ahmedabad,GJ,120412,UPI
+100360,Kindle Paperwhite,9,19594.97,16-03-2023,123 Main St,Pune,MP,320700,Cryptocurrency
+100361,USB-C Cable,3,15851.07,17-03-2023,123 Main St,Chennai,UP,597188,Cash
+100362,AirPods,9,87758.79,17-03-2023,123 Main St,Bengaluru,KA,333607,Apple Pay
+100363,iPhone 14,5,149393.89,17-03-2023,123 Main St,Kanpur,TN,864736,PayPal
+100364,Washing Machine,7,123622.13,17-03-2023,123 Main St,Surat,UP,252247,Apple Pay
+100365,Flatscreen TV,4,118138.13,17-03-2023,123 Main St,Kanpur,UP,133690,PhonePe
+100366,Bluetooth Speaker,8,74880.01,18-03-2023,123 Main St,Kanpur,WB,865689,Apple Pay
+100367,Kindle Paperwhite,5,146495.6,18-03-2023,123 Main St,Ahmedabad,TN,868452,Google Pay
+100368,Washing Machine,1,84001.5,18-03-2023,123 Main St,Bengaluru,GJ,385130,Credit Card
+100369,USB-C Cable,1,126573.61,18-03-2023,123 Main St,Ahmedabad,MP,745557,Cash
+100370,Macbook Pro,2,76709.54,18-03-2023,123 Main St,Delhi,PB,333651,PhonePe
+100371,Sony Headphones,3,60252.81,19-03-2023,123 Main St,Jaipur,GJ,435121,Credit Card
+100372,Washing Machine,5,99133.47,19-03-2023,123 Main St,Delhi,TG,216417,Debit Card
+100373,Nintendo Switch,3,144448.56,19-03-2023,123 Main St,Jaipur,WB,218165,Debit Card
+100374,Washing Machine,3,123666.76,19-03-2023,123 Main St,Jaipur,RJ,716911,Google Pay
+100375,Kindle Paperwhite,5,102778.38,19-03-2023,123 Main St,Jaipur,GJ,508019,Credit Card
+100376,Washing Machine,2,114147.89,20-03-2023,123 Main St,Lucknow,MP,682537,Credit Card
+100377,iPad Air,5,149278.74,20-03-2023,123 Main St,Kolkata,TN,351262,Credit Card
+100378,Kindle Paperwhite,5,78464.13,20-03-2023,123 Main St,Bengaluru,WB,227935,Credit Card
+100379,Apple Watch,2,28637.07,20-03-2023,123 Main St,Lucknow,KA,220561,Credit Card
+100380,PlayStation 5,9,90031.13,20-03-2023,123 Main St,Chennai,PB,377265,Cash
+100381,Flatscreen TV,3,114277.86,21-03-2023,123 Main St,Mumbai,TN,345462,Cryptocurrency
+100382,Nintendo Switch,1,147558.39,21-03-2023,123 Main St,Lucknow,RJ,710769,Net Banking
+100383,Macbook Pro,6,126183.3,21-03-2023,123 Main St,Hyderabad,GJ,845731,Apple Pay
+100384,USB-C Cable,2,71872.23,21-03-2023,123 Main St,Delhi,PB,878589,Apple Pay
+100385,Bluetooth Speaker,9,82500.6,22-03-2023,123 Main St,Jaipur,TN,963557,Cash
+100386,Sony Headphones,4,29628.82,22-03-2023,123 Main St,Kanpur,KA,716585,Bank Transfer
+100387,iPad Air,9,88621.43,22-03-2023,123 Main St,Lucknow,UP,844348,Net Banking
+100388,Apple Watch,2,121652.14,22-03-2023,123 Main St,Pune,WB,608765,Google Pay
+100389,Bluetooth Speaker,4,52718.04,22-03-2023,123 Main St,Lucknow,MP,431033,Cash
+100390,Dell XPS 15,1,47252.3,23-03-2023,123 Main St,Bengaluru,MP,414260,Credit Card
+100391,Nintendo Switch,7,38312.9,23-03-2023,123 Main St,Lucknow,UP,138205,Google Pay
+100392,Macbook Pro,4,96131.83,23-03-2023,123 Main St,Hyderabad,DL,183939,Cryptocurrency
+100393,USB-C Cable,7,20520.5,23-03-2023,123 Main St,Jaipur,RJ,277229,Cash
+100394,Bluetooth Speaker,9,52306.85,23-03-2023,123 Main St,Hyderabad,UP,841990,Credit Card
+100395,Samsung Galaxy S23,3,146405.75,24-03-2023,123 Main St,Delhi,PB,144333,Bank Transfer
+100396,Nintendo Switch,1,29890.68,24-03-2023,123 Main St,Lucknow,BR,754894,Cryptocurrency
+100397,Bluetooth Speaker,9,74350.12,24-03-2023,123 Main St,Kolkata,PB,237064,PhonePe
+100398,AirPods,1,17636.87,24-03-2023,123 Main St,Mumbai,PB,108532,Debit Card
+100399,Bluetooth Speaker,7,113840.88,24-03-2023,123 Main St,Jaipur,TN,338020,Net Banking
+100400,iPhone 14,7,82160.51,25-03-2023,123 Main St,Kolkata,PB,481314,Credit Card
+100401,Samsung Galaxy S23,8,114510.3,25-03-2023,123 Main St,Kolkata,PB,639215,Google Pay
+100402,Washing Machine,6,24476.93,25-03-2023,123 Main St,Lucknow,GJ,525042,Debit Card
+100403,AirPods,2,132333.41,25-03-2023,123 Main St,Jaipur,MP,979514,Net Banking
+100404,USB-C Cable,9,24383.08,25-03-2023,123 Main St,Ahmedabad,RJ,890103,Google Pay
+100405,Flatscreen TV,8,73864.72,26-03-2023,123 Main St,Ahmedabad,UP,730025,Google Pay
+100406,Washing Machine,7,129903.43,26-03-2023,123 Main St,Kolkata,GJ,564030,Bank Transfer
+100407,Macbook Pro,1,115950.78,26-03-2023,123 Main St,Chennai,UP,832859,Net Banking
+100408,PlayStation 5,9,84815.91,26-03-2023,123 Main St,Jaipur,BR,866105,Apple Pay
+100409,Macbook Pro,5,37480.26,27-03-2023,123 Main St,Bengaluru,MH,387702,Apple Pay
+100410,Apple Watch,8,55163.47,27-03-2023,123 Main St,Chennai,BR,785032,Bank Transfer
+100411,Kindle Paperwhite,2,84625.14,27-03-2023,123 Main St,Lucknow,MH,814080,Credit Card
+100412,Flatscreen TV,4,41865.84,27-03-2023,123 Main St,Kolkata,MH,673912,PayPal
+100413,Washing Machine,7,104958.03,27-03-2023,123 Main St,Pune,GJ,200717,Apple Pay
+100414,Kindle Paperwhite,9,10854.07,28-03-2023,123 Main St,Chennai,DL,362636,Apple Pay
+100415,iPhone 14,4,84845.15,28-03-2023,123 Main St,Ahmedabad,BR,994909,Cash
+100416,Macbook Pro,6,91404.04,28-03-2023,123 Main St,Jaipur,KA,542822,Cryptocurrency
+100417,Washing Machine,5,20458.27,28-03-2023,123 Main St,Chennai,RJ,177174,Bank Transfer
+100418,PlayStation 5,3,26439.78,28-03-2023,123 Main St,Delhi,UP,386294,Cryptocurrency
+100419,Nintendo Switch,7,73431.3,29-03-2023,123 Main St,Kolkata,MP,602129,Cash
+100420,iPhone 14,3,129538.55,29-03-2023,123 Main St,Kolkata,MP,214086,Google Pay
+100421,iPhone 14,4,69232.18,29-03-2023,123 Main St,Surat,MP,866664,Net Banking
+100422,Macbook Pro,1,126608.38,29-03-2023,123 Main St,Pune,TG,951431,Cryptocurrency
+100423,Washing Machine,3,53555.55,29-03-2023,123 Main St,Ahmedabad,GJ,617559,Cash
+100424,Bluetooth Speaker,5,125676.21,30-03-2023,123 Main St,Kanpur,UP,249713,PhonePe
+100425,Flatscreen TV,3,79040.56,30-03-2023,123 Main St,Hyderabad,BR,886018,PhonePe
+100426,iPad Air,8,46732.06,30-03-2023,123 Main St,Ahmedabad,UP,919327,Google Pay
+100427,Nintendo Switch,4,5062.85,30-03-2023,123 Main St,Kanpur,MH,413827,Apple Pay
+100428,Bluetooth Speaker,5,115170.72,30-03-2023,123 Main St,Mumbai,RJ,265231,Bank Transfer
+100429,Dell XPS 15,8,50457.82,31-03-2023,123 Main St,Mumbai,DL,974412,Net Banking
+100430,Apple Watch,9,139078.3,31-03-2023,123 Main St,Hyderabad,BR,658831,Apple Pay
+100431,Macbook Pro,6,82985.21,31-03-2023,123 Main St,Kolkata,TG,297333,PhonePe
+100432,Sony Headphones,4,49742.41,31-03-2023,123 Main St,Pune,DL,299202,Cash
+100433,PlayStation 5,2,127881.65,01-04-2023,123 Main St,Bengaluru,BR,298004,Net Banking
+100434,Samsung Galaxy S23,3,80795.72,01-04-2023,123 Main St,Mumbai,GJ,788207,Net Banking
+100435,iPhone 14,8,79775.96,01-04-2023,123 Main St,Chennai,DL,372191,Apple Pay
+100436,Macbook Pro,1,105096.1,01-04-2023,123 Main St,Hyderabad,WB,513430,Cryptocurrency
+100437,iPhone 14,6,134478.64,01-04-2023,123 Main St,Kolkata,TG,797579,Bank Transfer
+100438,Macbook Pro,7,77044.53,02-04-2023,123 Main St,Jaipur,UP,396352,PayPal
+100439,PlayStation 5,6,104467.54,02-04-2023,123 Main St,Ahmedabad,DL,420626,Net Banking
+100440,Macbook Pro,8,126797.1,02-04-2023,123 Main St,Surat,DL,946859,PayPal
+100441,Nintendo Switch,4,36204.82,02-04-2023,123 Main St,Bengaluru,PB,604205,Cash
+100442,USB-C Cable,1,106679.01,02-04-2023,123 Main St,Pune,WB,438303,UPI
+100443,Sony Headphones,8,99358.07,03-04-2023,123 Main St,Kanpur,UP,894246,Apple Pay
+100444,iPad Air,4,69355.18,03-04-2023,123 Main St,Ahmedabad,KA,959366,Net Banking
+100445,USB-C Cable,7,49768.52,03-04-2023,123 Main St,Hyderabad,UP,489675,Bank Transfer
+100446,Samsung Galaxy S23,5,16657.61,03-04-2023,123 Main St,Pune,BR,203361,PhonePe
+100447,USB-C Cable,8,10950.46,03-04-2023,123 Main St,Hyderabad,MP,310151,Debit Card
+100448,Apple Watch,4,9855.8,04-04-2023,123 Main St,Ahmedabad,WB,297836,PayPal
+100449,Washing Machine,2,35656.76,04-04-2023,123 Main St,Mumbai,KA,244682,Bank Transfer
+100450,Bluetooth Speaker,6,8751.81,04-04-2023,123 Main St,Kanpur,DL,830301,Google Pay
+100451,Macbook Pro,9,2678.66,04-04-2023,123 Main St,Hyderabad,UP,921546,PayPal
+100452,Sony Headphones,1,40320.26,04-04-2023,123 Main St,Lucknow,WB,941878,UPI
+100453,Nintendo Switch,1,66444.24,05-04-2023,123 Main St,Chennai,TN,721016,Cash
+100454,Apple Watch,1,140026.61,05-04-2023,123 Main St,Jaipur,RJ,460847,Google Pay
+100455,Flatscreen TV,3,146443.89,05-04-2023,123 Main St,Delhi,RJ,681644,Apple Pay
+100456,Washing Machine,2,91297.16,05-04-2023,123 Main St,Chennai,MP,742362,Debit Card
+100457,Nintendo Switch,2,97924.41,06-04-2023,123 Main St,Mumbai,DL,356942,Cash
+100458,iPhone 14,2,147063.56,06-04-2023,123 Main St,Mumbai,PB,101847,Cash
+100459,Nintendo Switch,9,76395.6,06-04-2023,123 Main St,Hyderabad,TN,580932,Bank Transfer
+100460,Samsung Galaxy S23,3,119265.47,06-04-2023,123 Main St,Pune,PB,185955,Debit Card
+100461,Kindle Paperwhite,6,106431.16,06-04-2023,123 Main St,Mumbai,MH,105003,PayPal
+100462,Nintendo Switch,6,140062.6,07-04-2023,123 Main St,Bengaluru,WB,514903,Google Pay
+100463,Sony Headphones,4,46142.45,07-04-2023,123 Main St,Delhi,GJ,590559,Google Pay
+100464,AirPods,4,67244.99,07-04-2023,123 Main St,Delhi,BR,567334,Google Pay
+100465,Washing Machine,2,50921.42,07-04-2023,123 Main St,Kanpur,MP,218370,Apple Pay
+100466,Dell XPS 15,8,17492.71,07-04-2023,123 Main St,Chennai,UP,364833,Bank Transfer
+100467,Flatscreen TV,7,27317.79,08-04-2023,123 Main St,Kanpur,GJ,198227,Google Pay
+100468,Dell XPS 15,2,91070.92,08-04-2023,123 Main St,Chennai,PB,464685,PhonePe
+100469,Nintendo Switch,5,65214.61,08-04-2023,123 Main St,Hyderabad,TG,312280,Credit Card
+100470,AirPods,3,98319.67,08-04-2023,123 Main St,Bengaluru,TN,975360,PhonePe
+100471,Nintendo Switch,5,60453.49,08-04-2023,123 Main St,Ahmedabad,UP,212022,Cash
+100472,Kindle Paperwhite,6,142274.3,09-04-2023,123 Main St,Bengaluru,WB,890776,PhonePe
+100473,iPad Air,6,62733.8,09-04-2023,123 Main St,Kolkata,PB,655058,Bank Transfer
+100474,Samsung Galaxy S23,2,120006.2,09-04-2023,123 Main St,Kanpur,RJ,320576,Bank Transfer
+100475,Sony Headphones,7,10482.17,09-04-2023,123 Main St,Delhi,KA,474990,Google Pay
+100476,Kindle Paperwhite,5,139204.62,09-04-2023,123 Main St,Kolkata,PB,117350,Debit Card
+100477,Nintendo Switch,3,41285.42,10-04-2023,123 Main St,Jaipur,UP,431009,Cash
+100478,iPad Air,5,111155.07,10-04-2023,123 Main St,Bengaluru,GJ,469243,UPI
+100479,Bluetooth Speaker,6,117313.98,10-04-2023,123 Main St,Jaipur,TG,402034,Cash
+100480,iPhone 14,2,108991.68,10-04-2023,123 Main St,Delhi,MH,281871,PayPal
+100481,Washing Machine,5,64019.15,11-04-2023,123 Main St,Pune,KA,319837,Cash
+100482,iPad Air,2,53699.98,11-04-2023,123 Main St,Kanpur,KA,917079,Google Pay
+100483,Bluetooth Speaker,7,43985.78,11-04-2023,123 Main St,Bengaluru,RJ,284303,Credit Card
+100484,Samsung Galaxy S23,8,2482.31,11-04-2023,123 Main St,Hyderabad,MH,798205,Bank Transfer
+100485,Washing Machine,5,9105.46,11-04-2023,123 Main St,Bengaluru,RJ,648478,Google Pay
+100486,Kindle Paperwhite,9,60136.71,12-04-2023,123 Main St,Kanpur,RJ,764579,Debit Card
+100487,iPad Air,9,49374.04,12-04-2023,123 Main St,Lucknow,BR,907255,Cryptocurrency
+100488,Nintendo Switch,1,132916.01,12-04-2023,123 Main St,Jaipur,DL,849407,UPI
+100489,Kindle Paperwhite,7,44729.88,12-04-2023,123 Main St,Ahmedabad,RJ,662183,Bank Transfer
+100490,Kindle Paperwhite,3,10322.78,12-04-2023,123 Main St,Mumbai,TG,951220,PayPal
+100491,Bluetooth Speaker,2,86651.49,13-04-2023,123 Main St,Delhi,MH,517065,Cryptocurrency
+100492,iPhone 14,5,25230.92,13-04-2023,123 Main St,Hyderabad,TN,817862,Credit Card
+100493,Nintendo Switch,9,97558.16,13-04-2023,123 Main St,Lucknow,MH,464101,Net Banking
+100494,Flatscreen TV,8,15491.96,13-04-2023,123 Main St,Lucknow,MH,852980,PhonePe
+100495,iPhone 14,3,14280.64,13-04-2023,123 Main St,Surat,TN,445495,PayPal
+100496,Bluetooth Speaker,8,127304.39,14-04-2023,123 Main St,Chennai,UP,820503,Bank Transfer
+100497,Bluetooth Speaker,1,80014.33,14-04-2023,123 Main St,Hyderabad,PB,407326,UPI
+100498,Sony Headphones,8,105085.82,14-04-2023,123 Main St,Ahmedabad,GJ,755149,Net Banking
+100499,AirPods,3,79620.06,14-04-2023,123 Main St,Pune,GJ,226307,Cryptocurrency
+100500,Dell XPS 15,4,137258.69,14-04-2023,123 Main St,Surat,RJ,952093,PayPal
+100501,Bluetooth Speaker,1,78776.83,15-04-2023,123 Main St,Surat,MP,838274,Apple Pay
+100502,Apple Watch,2,26016.35,15-04-2023,123 Main St,Kolkata,KA,343046,UPI
+100503,PlayStation 5,3,125873.6,15-04-2023,123 Main St,Chennai,RJ,983222,UPI
+100504,Macbook Pro,3,49816.85,15-04-2023,123 Main St,Jaipur,WB,432797,Net Banking
+100505,iPad Air,9,19989.75,16-04-2023,123 Main St,Surat,BR,250099,Net Banking
+100506,USB-C Cable,5,110658.25,16-04-2023,123 Main St,Kanpur,KA,970942,PayPal
+100507,Sony Headphones,5,53854.46,16-04-2023,123 Main St,Bengaluru,TG,438498,Credit Card
+100508,Washing Machine,8,55312.21,16-04-2023,123 Main St,Jaipur,MH,987412,PayPal
+100509,Nintendo Switch,2,140816.53,16-04-2023,123 Main St,Lucknow,MP,673905,Google Pay
+100510,Dell XPS 15,7,55327.43,17-04-2023,123 Main St,Kanpur,MP,295384,PayPal
+100511,Dell XPS 15,9,1692.36,17-04-2023,123 Main St,Pune,WB,257999,UPI
+100512,Apple Watch,2,130388.62,17-04-2023,123 Main St,Kolkata,PB,526778,Debit Card
+100513,Nintendo Switch,8,3913.32,17-04-2023,123 Main St,Delhi,MH,732138,Cash
+100514,USB-C Cable,5,62197.06,17-04-2023,123 Main St,Kanpur,BR,360237,PhonePe
+100515,Washing Machine,4,32378.93,18-04-2023,123 Main St,Bengaluru,MP,423078,Google Pay
+100516,Apple Watch,4,95457.32,18-04-2023,123 Main St,Kanpur,BR,424148,Apple Pay
+100517,Bluetooth Speaker,6,131104.61,18-04-2023,123 Main St,Kolkata,PB,246395,PhonePe
+100518,Macbook Pro,1,12957.43,18-04-2023,123 Main St,Jaipur,GJ,953154,Cryptocurrency
+100519,Flatscreen TV,4,60681.16,18-04-2023,123 Main St,Kolkata,DL,485988,Debit Card
+100520,Apple Watch,5,19040.07,19-04-2023,123 Main St,Surat,TG,984205,Debit Card
+100521,Samsung Galaxy S23,5,70063.34,19-04-2023,123 Main St,Jaipur,RJ,582823,Debit Card
+100522,USB-C Cable,5,68827.27,19-04-2023,123 Main St,Jaipur,KA,368549,Debit Card
+100523,Nintendo Switch,4,114361.26,19-04-2023,123 Main St,Mumbai,TG,941995,UPI
+100524,iPad Air,5,96311.92,19-04-2023,123 Main St,Lucknow,BR,720878,Cash
+100525,AirPods,4,33202.24,20-04-2023,123 Main St,Bengaluru,RJ,634365,Credit Card
+100526,PlayStation 5,7,62827.85,20-04-2023,123 Main St,Bengaluru,PB,947091,Credit Card
+100527,Washing Machine,3,123093.75,20-04-2023,123 Main St,Chennai,TG,555337,Cryptocurrency
+100528,AirPods,8,98644.77,20-04-2023,123 Main St,Kolkata,PB,896517,Net Banking
+100529,Apple Watch,3,31508.29,21-04-2023,123 Main St,Kanpur,TG,206811,Apple Pay
+100530,Washing Machine,9,44287.19,21-04-2023,123 Main St,Surat,TN,313850,Bank Transfer
+100531,Apple Watch,5,74884.21,21-04-2023,123 Main St,Ahmedabad,MH,649454,PayPal
+100532,Washing Machine,2,24628.2,21-04-2023,123 Main St,Hyderabad,TG,133893,Debit Card
+100533,Flatscreen TV,7,43393.54,21-04-2023,123 Main St,Mumbai,RJ,652008,Debit Card
+100534,Macbook Pro,6,79224.25,22-04-2023,123 Main St,Surat,RJ,377709,PayPal
+100535,Kindle Paperwhite,9,116713.22,22-04-2023,123 Main St,Lucknow,RJ,689318,Google Pay
+100536,AirPods,9,54390.93,22-04-2023,123 Main St,Surat,UP,237038,Apple Pay
+100537,USB-C Cable,7,115370.24,22-04-2023,123 Main St,Mumbai,WB,635925,PhonePe
+100538,Washing Machine,8,131945.89,22-04-2023,123 Main St,Ahmedabad,GJ,279362,Debit Card
+100539,Samsung Galaxy S23,6,131812.53,23-04-2023,123 Main St,Kolkata,PB,661896,Cash
+100540,Washing Machine,3,103536.37,23-04-2023,123 Main St,Bengaluru,RJ,737772,Bank Transfer
+100541,iPad Air,1,50717.12,23-04-2023,123 Main St,Surat,GJ,173968,Credit Card
+100542,PlayStation 5,7,91940.41,23-04-2023,123 Main St,Hyderabad,KA,931985,Net Banking
+100543,Samsung Galaxy S23,5,65015.49,23-04-2023,123 Main St,Kolkata,RJ,910943,Cash
+100544,Sony Headphones,3,130093.28,24-04-2023,123 Main St,Chennai,PB,805168,Cash
+100545,Dell XPS 15,8,79101.39,24-04-2023,123 Main St,Pune,MH,910299,UPI
+100546,Washing Machine,8,102284.62,24-04-2023,123 Main St,Pune,TG,681158,PayPal
+100547,iPhone 14,9,114140.67,24-04-2023,123 Main St,Delhi,MP,764910,Google Pay
+100548,iPad Air,7,29713.01,24-04-2023,123 Main St,Mumbai,MP,109663,PhonePe
+100549,iPhone 14,6,113059.17,25-04-2023,123 Main St,Delhi,BR,393922,Cryptocurrency
+100550,AirPods,8,118705.52,25-04-2023,123 Main St,Lucknow,MH,742976,Net Banking
+100551,Macbook Pro,5,31593.2,25-04-2023,123 Main St,Mumbai,MP,653373,UPI
+100552,Samsung Galaxy S23,3,43827.72,25-04-2023,123 Main St,Mumbai,MH,350813,Debit Card
+100553,Apple Watch,3,17294.44,26-04-2023,123 Main St,Mumbai,TG,527909,Google Pay
+100554,Apple Watch,4,100239.15,26-04-2023,123 Main St,Kanpur,KA,351966,PhonePe
+100555,USB-C Cable,3,11333.11,26-04-2023,123 Main St,Surat,DL,655897,PayPal
+100556,Macbook Pro,8,85178.96,26-04-2023,123 Main St,Jaipur,MP,492628,Debit Card
+100557,iPad Air,6,18480.2,26-04-2023,123 Main St,Chennai,RJ,941795,Cryptocurrency
+100558,Dell XPS 15,3,75744.52,27-04-2023,123 Main St,Pune,RJ,773974,Credit Card
+100559,Dell XPS 15,1,146767.94,27-04-2023,123 Main St,Mumbai,KA,686672,Credit Card
+100560,Apple Watch,4,49028.47,27-04-2023,123 Main St,Delhi,UP,359056,Google Pay
+100561,PlayStation 5,1,11505.12,27-04-2023,123 Main St,Pune,RJ,906357,UPI
+100562,Samsung Galaxy S23,6,108668.76,27-04-2023,123 Main St,Kanpur,WB,298981,Debit Card
+100563,Sony Headphones,7,49561.4,28-04-2023,123 Main St,Delhi,TN,292925,Apple Pay
+100564,Apple Watch,7,84453.71,28-04-2023,123 Main St,Surat,TN,214794,UPI
+100565,AirPods,4,76192.55,28-04-2023,123 Main St,Jaipur,UP,161173,Cryptocurrency
+100566,Kindle Paperwhite,9,89562.21,28-04-2023,123 Main St,Pune,GJ,272606,Debit Card
+100567,Flatscreen TV,4,137725.78,28-04-2023,123 Main St,Lucknow,DL,897244,Debit Card
+100568,Bluetooth Speaker,5,103070.22,29-04-2023,123 Main St,Ahmedabad,TG,966502,PhonePe
+100569,iPad Air,2,56155.64,29-04-2023,123 Main St,Pune,TG,745331,Bank Transfer
+100570,Nintendo Switch,6,135388.19,29-04-2023,123 Main St,Mumbai,DL,810803,PhonePe
+100571,Nintendo Switch,5,123165.72,29-04-2023,123 Main St,Hyderabad,RJ,780397,Apple Pay
+100572,Macbook Pro,3,1387.82,29-04-2023,123 Main St,Hyderabad,KA,770680,UPI
+100573,AirPods,9,69102.48,30-04-2023,123 Main St,Delhi,RJ,316835,Google Pay
+100574,USB-C Cable,1,143388.52,30-04-2023,123 Main St,Delhi,TN,285281,Apple Pay
+100575,Kindle Paperwhite,7,70201.59,30-04-2023,123 Main St,Bengaluru,GJ,759494,Bank Transfer
+100576,AirPods,8,116883.9,30-04-2023,123 Main St,Bengaluru,KA,661477,PayPal
+100577,Washing Machine,2,21950.45,01-05-2023,123 Main St,Chennai,WB,181173,UPI
+100578,PlayStation 5,4,139103.98,01-05-2023,123 Main St,Jaipur,TG,692719,Bank Transfer
+100579,Kindle Paperwhite,3,8322.3,01-05-2023,123 Main St,Surat,MH,305159,Credit Card
+100580,Washing Machine,2,145453.27,01-05-2023,123 Main St,Chennai,TG,407134,UPI
+100581,Macbook Pro,5,137186.69,01-05-2023,123 Main St,Lucknow,TG,673629,PhonePe
+100582,Macbook Pro,3,11941.37,02-05-2023,123 Main St,Hyderabad,GJ,216292,Credit Card
+100583,iPhone 14,3,40977.56,02-05-2023,123 Main St,Ahmedabad,WB,560131,Cryptocurrency
+100584,Washing Machine,2,120642.07,02-05-2023,123 Main St,Hyderabad,MP,362461,Credit Card
+100585,Samsung Galaxy S23,9,130151.06,02-05-2023,123 Main St,Delhi,WB,289809,Net Banking
+100586,Macbook Pro,5,70124.78,02-05-2023,123 Main St,Jaipur,MH,683822,Debit Card
+100587,Dell XPS 15,2,116524.4,03-05-2023,123 Main St,Mumbai,TG,189432,PayPal
+100588,Flatscreen TV,8,15783.3,03-05-2023,123 Main St,Kanpur,DL,154781,PayPal
+100589,Flatscreen TV,8,98772.43,03-05-2023,123 Main St,Lucknow,TN,859942,PhonePe
+100590,USB-C Cable,1,9587.76,03-05-2023,123 Main St,Pune,TG,513089,PhonePe
+100591,Flatscreen TV,6,75646.78,03-05-2023,123 Main St,Kanpur,RJ,729228,Credit Card
+100592,AirPods,1,42032.99,04-05-2023,123 Main St,Kanpur,MP,727371,PayPal
+100593,Bluetooth Speaker,2,110775.32,04-05-2023,123 Main St,Surat,GJ,381434,Cryptocurrency
+100594,Flatscreen TV,4,118245.15,04-05-2023,123 Main St,Jaipur,MP,836809,UPI
+100595,Nintendo Switch,3,119200.6,04-05-2023,123 Main St,Lucknow,TN,804486,Debit Card
+100596,Samsung Galaxy S23,5,109425.71,04-05-2023,123 Main St,Delhi,BR,908284,Google Pay
+100597,Kindle Paperwhite,1,121192.59,05-05-2023,123 Main St,Ahmedabad,TG,704584,Apple Pay
+100598,Bluetooth Speaker,6,72842.8,05-05-2023,123 Main St,Jaipur,MP,964046,PhonePe
+100599,USB-C Cable,7,18965.34,05-05-2023,123 Main St,Kanpur,TG,387491,Credit Card
+100600,Bluetooth Speaker,4,133219.25,05-05-2023,123 Main St,Surat,KA,385567,Net Banking
+100601,PlayStation 5,7,118496.65,06-05-2023,123 Main St,Jaipur,TG,592099,UPI
+100602,iPad Air,6,118570.91,06-05-2023,123 Main St,Chennai,TG,260986,UPI
+100603,Samsung Galaxy S23,5,36115.58,06-05-2023,123 Main St,Delhi,WB,682308,Cash
+100604,iPhone 14,6,75808.22,06-05-2023,123 Main St,Kolkata,BR,700016,Cash
+100605,USB-C Cable,2,77027.99,06-05-2023,123 Main St,Pune,RJ,690161,Credit Card
+100606,Washing Machine,1,119380.22,07-05-2023,123 Main St,Mumbai,KA,285321,PhonePe
+100607,Bluetooth Speaker,5,67496.91,07-05-2023,123 Main St,Delhi,MP,292416,Net Banking
+100608,iPhone 14,9,69042.92,07-05-2023,123 Main St,Lucknow,DL,490010,Net Banking
+100609,USB-C Cable,7,110028.55,07-05-2023,123 Main St,Hyderabad,MP,696786,UPI
+100610,iPad Air,8,41427.98,07-05-2023,123 Main St,Kolkata,UP,251163,Cryptocurrency
+100611,AirPods,3,132063.77,08-05-2023,123 Main St,Surat,WB,401901,Net Banking
+100612,iPhone 14,3,125316.73,08-05-2023,123 Main St,Lucknow,RJ,244408,Cryptocurrency
+100613,Samsung Galaxy S23,4,129039.79,08-05-2023,123 Main St,Pune,WB,651965,PayPal
+100614,USB-C Cable,9,65314.6,08-05-2023,123 Main St,Kolkata,UP,642120,Cryptocurrency
+100615,iPad Air,3,17807.16,08-05-2023,123 Main St,Delhi,MH,312433,Cryptocurrency
+100616,PlayStation 5,6,42021.29,09-05-2023,123 Main St,Kolkata,MH,245797,Debit Card
+100617,Nintendo Switch,9,64291.11,09-05-2023,123 Main St,Lucknow,TN,184121,Apple Pay
+100618,AirPods,8,75602.87,09-05-2023,123 Main St,Hyderabad,PB,385396,Apple Pay
+100619,Bluetooth Speaker,2,53748.41,09-05-2023,123 Main St,Lucknow,KA,188544,UPI
+100620,Kindle Paperwhite,3,111972.78,09-05-2023,123 Main St,Mumbai,KA,477548,Apple Pay
+100621,Kindle Paperwhite,7,51586.6,10-05-2023,123 Main St,Kanpur,MP,589179,Credit Card
+100622,iPad Air,3,53764.57,10-05-2023,123 Main St,Pune,GJ,989982,Apple Pay
+100623,iPhone 14,3,4892.71,10-05-2023,123 Main St,Surat,MH,344512,Apple Pay
+100624,Dell XPS 15,9,19581.25,10-05-2023,123 Main St,Hyderabad,KA,119149,Debit Card
+100625,Dell XPS 15,3,67434.4,11-05-2023,123 Main St,Surat,TN,575414,Net Banking
+100626,Samsung Galaxy S23,3,74934.24,11-05-2023,123 Main St,Bengaluru,TG,680288,PhonePe
+100627,Macbook Pro,4,117763.15,11-05-2023,123 Main St,Lucknow,GJ,710796,UPI
+100628,AirPods,6,38644.22,11-05-2023,123 Main St,Delhi,WB,166005,Cryptocurrency
+100629,AirPods,9,124091.67,11-05-2023,123 Main St,Surat,TG,481190,Cash
+100630,AirPods,5,24537.2,12-05-2023,123 Main St,Mumbai,MH,652741,PhonePe
+100631,AirPods,6,61204.1,12-05-2023,123 Main St,Delhi,DL,369913,Google Pay
+100632,Washing Machine,2,6714.28,12-05-2023,123 Main St,Surat,MP,854194,Net Banking
+100633,Samsung Galaxy S23,5,67772.99,12-05-2023,123 Main St,Lucknow,PB,296827,Google Pay
+100634,Kindle Paperwhite,6,16763.94,12-05-2023,123 Main St,Lucknow,MP,987581,Credit Card
+100635,Dell XPS 15,3,70679.6,13-05-2023,123 Main St,Mumbai,PB,486404,UPI
+100636,Macbook Pro,7,75040.58,13-05-2023,123 Main St,Lucknow,PB,513509,UPI
+100637,Apple Watch,5,42101.91,13-05-2023,123 Main St,Kanpur,DL,493106,Credit Card
+100638,Macbook Pro,6,85267.8,13-05-2023,123 Main St,Mumbai,MP,309111,PayPal
+100639,Nintendo Switch,2,101425.66,13-05-2023,123 Main St,Kanpur,MP,726512,Apple Pay
+100640,PlayStation 5,7,93810.87,14-05-2023,123 Main St,Jaipur,WB,280220,Google Pay
+100641,Bluetooth Speaker,5,24646.39,14-05-2023,123 Main St,Kanpur,WB,202758,PhonePe
+100642,USB-C Cable,1,145716.67,14-05-2023,123 Main St,Ahmedabad,BR,321447,Bank Transfer
+100643,Bluetooth Speaker,8,72756.25,14-05-2023,123 Main St,Chennai,MH,701922,Cryptocurrency
+100644,Samsung Galaxy S23,2,56166.54,14-05-2023,123 Main St,Surat,GJ,212606,Google Pay
+100645,Kindle Paperwhite,2,113633.05,15-05-2023,123 Main St,Bengaluru,MH,179142,Debit Card
+100646,Sony Headphones,8,48992.02,15-05-2023,123 Main St,Kolkata,RJ,236287,Cryptocurrency
+100647,USB-C Cable,5,136216.33,15-05-2023,123 Main St,Delhi,TG,384904,PhonePe
+100648,Apple Watch,2,109243.68,15-05-2023,123 Main St,Jaipur,DL,253108,Apple Pay
+100649,Dell XPS 15,8,34978.33,16-05-2023,123 Main St,Ahmedabad,PB,306354,Google Pay
+100650,USB-C Cable,3,141273.67,16-05-2023,123 Main St,Delhi,KA,156146,UPI
+100651,PlayStation 5,3,16096.01,16-05-2023,123 Main St,Hyderabad,UP,645850,Net Banking
+100652,Nintendo Switch,3,133697.62,16-05-2023,123 Main St,Surat,MH,311442,PhonePe
+100653,Flatscreen TV,2,72160.05,16-05-2023,123 Main St,Chennai,WB,443518,UPI
+100654,PlayStation 5,7,104228.44,17-05-2023,123 Main St,Bengaluru,BR,507676,Cash
+100655,Nintendo Switch,5,100976.31,17-05-2023,123 Main St,Jaipur,MH,590502,PayPal
+100656,iPhone 14,4,72118,17-05-2023,123 Main St,Mumbai,UP,284369,UPI
+100657,Kindle Paperwhite,4,102298.17,17-05-2023,123 Main St,Pune,PB,809558,UPI
+100658,Bluetooth Speaker,3,101174.24,17-05-2023,123 Main St,Chennai,WB,631552,Cash
+100659,Macbook Pro,4,59740.79,18-05-2023,123 Main St,Mumbai,TN,791589,Debit Card
+100660,AirPods,3,13688.48,18-05-2023,123 Main St,Jaipur,WB,731834,PayPal
+100661,AirPods,7,17262.8,18-05-2023,123 Main St,Kolkata,KA,305617,UPI
+100662,USB-C Cable,1,17686.7,18-05-2023,123 Main St,Delhi,UP,190960,Net Banking
+100663,USB-C Cable,8,13648.83,18-05-2023,123 Main St,Kanpur,WB,576651,PhonePe
+100664,iPhone 14,2,106423.02,19-05-2023,123 Main St,Delhi,MP,124190,Cryptocurrency
+100665,Dell XPS 15,7,145990.48,19-05-2023,123 Main St,Ahmedabad,GJ,866668,Net Banking
+100666,Kindle Paperwhite,1,129006.41,19-05-2023,123 Main St,Ahmedabad,KA,199578,Net Banking
+100667,Apple Watch,6,22428.68,19-05-2023,123 Main St,Lucknow,MP,780255,PhonePe
+100668,Dell XPS 15,7,118642.51,19-05-2023,123 Main St,Jaipur,PB,892350,UPI
+100669,Samsung Galaxy S23,3,80628.09,20-05-2023,123 Main St,Chennai,RJ,639153,PhonePe
+100670,Sony Headphones,9,65863.49,20-05-2023,123 Main St,Bengaluru,RJ,388340,Credit Card
+100671,Nintendo Switch,8,119936.58,20-05-2023,123 Main St,Hyderabad,DL,628244,Credit Card
+100672,Bluetooth Speaker,8,93976.83,20-05-2023,123 Main St,Hyderabad,BR,813053,Cryptocurrency
+100673,Apple Watch,4,49562,21-05-2023,123 Main St,Pune,MP,779840,Cryptocurrency
+100674,iPhone 14,7,67471.13,21-05-2023,123 Main St,Surat,TG,684365,Cryptocurrency
+100675,Nintendo Switch,1,105887.4,21-05-2023,123 Main St,Chennai,MH,528337,Credit Card
+100676,Nintendo Switch,2,36749.96,21-05-2023,123 Main St,Bengaluru,TG,160653,UPI
+100677,Bluetooth Speaker,4,61108.94,21-05-2023,123 Main St,Lucknow,TG,981121,UPI
+100678,Sony Headphones,9,89578.44,22-05-2023,123 Main St,Pune,KA,942704,Bank Transfer
+100679,USB-C Cable,3,64938.27,22-05-2023,123 Main St,Lucknow,KA,779046,Bank Transfer
+100680,Sony Headphones,3,4268.84,22-05-2023,123 Main St,Mumbai,GJ,152544,Net Banking
+100681,Washing Machine,7,11564.44,22-05-2023,123 Main St,Bengaluru,TN,460847,PhonePe
+100682,PlayStation 5,9,80768.48,22-05-2023,123 Main St,Lucknow,BR,411418,Credit Card
+100683,AirPods,3,144405,23-05-2023,123 Main St,Hyderabad,UP,225715,Net Banking
+100684,Sony Headphones,6,120272.07,23-05-2023,123 Main St,Ahmedabad,KA,775020,Cash
+100685,Washing Machine,2,12322.28,23-05-2023,123 Main St,Bengaluru,PB,862214,Apple Pay
+100686,Washing Machine,4,34813.18,23-05-2023,123 Main St,Bengaluru,GJ,489592,Credit Card
+100687,Sony Headphones,8,14282,23-05-2023,123 Main St,Mumbai,GJ,604899,Net Banking
+100688,AirPods,3,118854.47,24-05-2023,123 Main St,Jaipur,BR,931958,Cash
+100689,AirPods,3,20695.77,24-05-2023,123 Main St,Kanpur,PB,365200,Bank Transfer
+100690,Bluetooth Speaker,1,111828.01,24-05-2023,123 Main St,Bengaluru,MH,446770,Apple Pay
+100691,USB-C Cable,4,140683.95,24-05-2023,123 Main St,Kanpur,RJ,931174,Apple Pay
+100692,Washing Machine,4,43318.01,24-05-2023,123 Main St,Chennai,RJ,537576,PhonePe
+100693,Macbook Pro,4,68281.49,25-05-2023,123 Main St,Kanpur,BR,513982,UPI
+100694,Flatscreen TV,9,87360.11,25-05-2023,123 Main St,Kolkata,TG,375152,PayPal
+100695,Kindle Paperwhite,3,114982.98,25-05-2023,123 Main St,Pune,MH,122674,Google Pay
+100696,Sony Headphones,6,129592.1,25-05-2023,123 Main St,Jaipur,UP,544064,Credit Card
+100697,USB-C Cable,2,30497.45,26-05-2023,123 Main St,Pune,MH,845426,Net Banking
+100698,iPad Air,9,21049.34,26-05-2023,123 Main St,Lucknow,GJ,214923,UPI
+100699,Bluetooth Speaker,6,42091.58,26-05-2023,123 Main St,Bengaluru,UP,273875,Bank Transfer
+100700,Kindle Paperwhite,2,83821.56,26-05-2023,123 Main St,Kolkata,PB,991534,Apple Pay
+100701,iPhone 14,8,45727.89,26-05-2023,123 Main St,Hyderabad,GJ,287623,PayPal
+100702,iPhone 14,4,59006.32,27-05-2023,123 Main St,Hyderabad,BR,717506,Cash
+100703,Macbook Pro,2,64965.77,27-05-2023,123 Main St,Kanpur,UP,744861,UPI
+100704,iPhone 14,4,63444.68,27-05-2023,123 Main St,Hyderabad,KA,717997,Debit Card
+100705,Nintendo Switch,3,44123.28,27-05-2023,123 Main St,Pune,UP,208597,PayPal
+100706,Flatscreen TV,2,28392.9,27-05-2023,123 Main St,Mumbai,KA,625610,PayPal
+100707,iPhone 14,6,101501.51,28-05-2023,123 Main St,Hyderabad,PB,774721,Google Pay
+100708,Nintendo Switch,6,149803.69,28-05-2023,123 Main St,Kolkata,TG,490285,Debit Card
+100709,Washing Machine,5,97356.11,28-05-2023,123 Main St,Lucknow,MH,475013,Apple Pay
+100710,Nintendo Switch,9,66740.56,28-05-2023,123 Main St,Surat,RJ,457902,Net Banking
+100711,AirPods,5,92460.58,28-05-2023,123 Main St,Bengaluru,MH,806227,Cryptocurrency
+100712,Apple Watch,3,99220.02,29-05-2023,123 Main St,Kanpur,BR,422756,Credit Card
+100713,Kindle Paperwhite,1,82671.77,29-05-2023,123 Main St,Ahmedabad,TG,790095,Credit Card
+100714,Flatscreen TV,3,56258.04,29-05-2023,123 Main St,Bengaluru,BR,532149,Credit Card
+100715,Nintendo Switch,5,66913.14,29-05-2023,123 Main St,Mumbai,DL,424884,Net Banking
+100716,Kindle Paperwhite,2,93825.42,29-05-2023,123 Main St,Bengaluru,MH,653238,Net Banking
+100717,Nintendo Switch,3,108247.21,30-05-2023,123 Main St,Kanpur,PB,791928,Google Pay
+100718,Bluetooth Speaker,9,118383.72,30-05-2023,123 Main St,Jaipur,TN,558173,Bank Transfer
+100719,Nintendo Switch,7,44472.56,30-05-2023,123 Main St,Lucknow,KA,663082,Cash
+100720,Washing Machine,8,70520.42,30-05-2023,123 Main St,Kanpur,BR,651942,PayPal
+100721,Apple Watch,1,10704.5,31-05-2023,123 Main St,Pune,TG,773652,PhonePe
+100722,iPhone 14,6,20203.53,31-05-2023,123 Main St,Jaipur,BR,548687,Bank Transfer
+100723,Washing Machine,5,107614.86,31-05-2023,123 Main St,Ahmedabad,TG,922702,Debit Card
+100724,PlayStation 5,6,125942.22,31-05-2023,123 Main St,Jaipur,PB,133626,Debit Card
+100725,USB-C Cable,5,107245.41,31-05-2023,123 Main St,Jaipur,DL,446472,UPI
+100726,Flatscreen TV,7,15172.12,01-06-2023,123 Main St,Chennai,TG,231051,Bank Transfer
+100727,Kindle Paperwhite,1,26144.92,01-06-2023,123 Main St,Lucknow,BR,854192,Net Banking
+100728,Macbook Pro,8,122799.04,01-06-2023,123 Main St,Ahmedabad,TN,261739,Cryptocurrency
+100729,Bluetooth Speaker,1,30712.39,01-06-2023,123 Main St,Ahmedabad,UP,921149,Cash
+100730,Kindle Paperwhite,5,86693.33,01-06-2023,123 Main St,Surat,MP,920982,PhonePe
+100731,Washing Machine,2,12389.85,02-06-2023,123 Main St,Kolkata,WB,771763,Debit Card
+100732,iPhone 14,8,95424.44,02-06-2023,123 Main St,Lucknow,PB,515073,PhonePe
+100733,Dell XPS 15,7,63934.68,02-06-2023,123 Main St,Kanpur,TG,412825,PayPal
+100734,Bluetooth Speaker,4,57598.89,02-06-2023,123 Main St,Delhi,DL,908707,Credit Card
+100735,Flatscreen TV,9,42060.61,02-06-2023,123 Main St,Kanpur,BR,491502,Debit Card
+100736,Samsung Galaxy S23,3,43243.8,03-06-2023,123 Main St,Bengaluru,TN,637085,PayPal
+100737,Dell XPS 15,9,116462.28,03-06-2023,123 Main St,Pune,MP,809191,Google Pay
+100738,iPhone 14,7,49125.68,03-06-2023,123 Main St,Jaipur,MH,428332,Cryptocurrency
+100739,Nintendo Switch,5,30060.35,03-06-2023,123 Main St,Surat,PB,949085,PayPal
+100740,Samsung Galaxy S23,5,5110.72,03-06-2023,123 Main St,Surat,BR,835371,Apple Pay
+100741,AirPods,9,61833.67,04-06-2023,123 Main St,Kolkata,TG,617721,Bank Transfer
+100742,Kindle Paperwhite,5,52176.07,04-06-2023,123 Main St,Ahmedabad,RJ,101675,Credit Card
+100743,USB-C Cable,5,14320.88,04-06-2023,123 Main St,Lucknow,BR,103136,Cash
+100744,Sony Headphones,4,74797.04,04-06-2023,123 Main St,Delhi,MP,573150,PhonePe
+100745,Bluetooth Speaker,2,115201.9,05-06-2023,123 Main St,Jaipur,TG,809994,Cryptocurrency
+100746,iPhone 14,2,41763.98,05-06-2023,123 Main St,Kanpur,PB,184335,PayPal
+100747,Macbook Pro,6,95065.33,05-06-2023,123 Main St,Kolkata,TG,314125,Bank Transfer
+100748,Samsung Galaxy S23,9,19826.81,05-06-2023,123 Main St,Kanpur,DL,205959,Cash
+100749,Samsung Galaxy S23,4,63029.38,05-06-2023,123 Main St,Kolkata,MH,293473,Credit Card
+100750,Dell XPS 15,6,132127.5,06-06-2023,123 Main St,Hyderabad,BR,508688,Debit Card
+100751,Bluetooth Speaker,4,100144.52,06-06-2023,123 Main St,Bengaluru,PB,221687,Google Pay
+100752,Washing Machine,5,125898.16,06-06-2023,123 Main St,Lucknow,DL,332255,Apple Pay
+100753,AirPods,5,50811.87,06-06-2023,123 Main St,Delhi,BR,585622,Bank Transfer
+100754,AirPods,8,90596.86,06-06-2023,123 Main St,Jaipur,BR,359616,UPI
+100755,Flatscreen TV,4,74205.01,07-06-2023,123 Main St,Chennai,TN,737514,Cryptocurrency
+100756,iPad Air,7,23726.48,07-06-2023,123 Main St,Kanpur,DL,813428,Bank Transfer
+100757,Sony Headphones,6,83995.76,07-06-2023,123 Main St,Mumbai,PB,795467,Google Pay
+100758,AirPods,6,119043.23,07-06-2023,123 Main St,Kanpur,PB,971537,Cryptocurrency
+100759,Flatscreen TV,6,35838.34,07-06-2023,123 Main St,Ahmedabad,UP,934417,Net Banking
+100760,iPhone 14,1,118247.22,08-06-2023,123 Main St,Pune,BR,267769,Cash
+100761,Dell XPS 15,8,121731.77,08-06-2023,123 Main St,Lucknow,DL,662330,PhonePe
+100762,USB-C Cable,5,12966.82,08-06-2023,123 Main St,Hyderabad,TG,286137,PayPal
+100763,Apple Watch,6,106481.16,08-06-2023,123 Main St,Kanpur,MP,231717,PayPal
+100764,Bluetooth Speaker,4,131491.24,08-06-2023,123 Main St,Kanpur,MP,936275,Cryptocurrency
+100765,AirPods,6,34482.03,09-06-2023,123 Main St,Delhi,BR,227519,Cryptocurrency
+100766,Samsung Galaxy S23,1,123986.16,09-06-2023,123 Main St,Surat,RJ,780503,Net Banking
+100767,Samsung Galaxy S23,3,129523.92,09-06-2023,123 Main St,Pune,PB,243805,Apple Pay
+100768,iPad Air,7,75227.62,09-06-2023,123 Main St,Ahmedabad,GJ,278415,Apple Pay
+100769,Dell XPS 15,1,128473.71,10-06-2023,123 Main St,Ahmedabad,BR,642635,Google Pay
+100770,AirPods,7,11607.31,10-06-2023,123 Main St,Delhi,MH,141558,Google Pay
+100771,iPhone 14,9,8857.13,10-06-2023,123 Main St,Ahmedabad,TG,561974,PhonePe
+100772,Sony Headphones,2,125627.72,10-06-2023,123 Main St,Mumbai,MP,742937,Google Pay
+100773,USB-C Cable,2,79369.49,10-06-2023,123 Main St,Mumbai,TG,381076,PayPal
+100774,Flatscreen TV,8,96059.87,11-06-2023,123 Main St,Jaipur,GJ,523462,UPI
+100775,iPad Air,6,9537.52,11-06-2023,123 Main St,Bengaluru,RJ,224258,Cryptocurrency
+100776,AirPods,5,60424.1,11-06-2023,123 Main St,Pune,PB,874708,UPI
+100777,PlayStation 5,4,113187.19,11-06-2023,123 Main St,Kolkata,GJ,514958,PhonePe
+100778,Samsung Galaxy S23,2,59992.48,11-06-2023,123 Main St,Kanpur,DL,356861,Google Pay
+100779,iPad Air,6,32448.41,12-06-2023,123 Main St,Chennai,TN,262237,Cryptocurrency
+100780,Nintendo Switch,7,110410.25,12-06-2023,123 Main St,Surat,RJ,219649,PayPal
+100781,iPad Air,6,131929.43,12-06-2023,123 Main St,Hyderabad,MH,459252,Net Banking
+100782,Bluetooth Speaker,9,37213.75,12-06-2023,123 Main St,Surat,TG,287363,PayPal
+100783,Nintendo Switch,7,57656.48,12-06-2023,123 Main St,Jaipur,BR,852188,Apple Pay
+100784,iPhone 14,7,131846.05,13-06-2023,123 Main St,Hyderabad,UP,560057,Google Pay
+100785,iPhone 14,5,24833.91,13-06-2023,123 Main St,Pune,MP,985372,Cash
+100786,Kindle Paperwhite,7,132627.08,13-06-2023,123 Main St,Delhi,DL,368663,UPI
+100787,AirPods,6,110078.98,13-06-2023,123 Main St,Ahmedabad,UP,431643,Cryptocurrency
+100788,Dell XPS 15,6,11465,13-06-2023,123 Main St,Pune,BR,254154,PayPal
+100789,iPhone 14,1,96357.72,14-06-2023,123 Main St,Jaipur,WB,644238,Net Banking
+100790,Dell XPS 15,9,76755.17,14-06-2023,123 Main St,Surat,PB,723828,Debit Card
+100791,Flatscreen TV,8,131798.94,14-06-2023,123 Main St,Kanpur,MP,354191,Cash
+100792,Macbook Pro,4,106935.23,14-06-2023,123 Main St,Kolkata,MP,402027,Net Banking
+100793,Samsung Galaxy S23,6,93351.33,15-06-2023,123 Main St,Kanpur,TN,819585,Apple Pay
+100794,Macbook Pro,2,78605.92,15-06-2023,123 Main St,Pune,DL,666827,Bank Transfer
+100795,iPhone 14,2,21022.97,15-06-2023,123 Main St,Mumbai,RJ,487613,Cryptocurrency
+100796,Macbook Pro,7,78955.67,15-06-2023,123 Main St,Delhi,KA,960841,PayPal
+100797,Dell XPS 15,5,61796.03,15-06-2023,123 Main St,Jaipur,WB,801238,Bank Transfer
+100798,Nintendo Switch,3,55699.86,16-06-2023,123 Main St,Pune,MP,517289,Google Pay
+100799,Nintendo Switch,7,137872.42,16-06-2023,123 Main St,Hyderabad,DL,749974,Google Pay
+100800,Nintendo Switch,6,72689.6,16-06-2023,123 Main St,Lucknow,UP,312141,PhonePe
+100801,Nintendo Switch,4,51365.32,16-06-2023,123 Main St,Ahmedabad,DL,628219,PhonePe
+100802,Kindle Paperwhite,7,85707.94,16-06-2023,123 Main St,Kanpur,KA,807741,Bank Transfer
+100803,Macbook Pro,3,83085.43,17-06-2023,123 Main St,Surat,WB,695024,Debit Card
+100804,Washing Machine,6,37684.17,17-06-2023,123 Main St,Lucknow,KA,241244,Debit Card
+100805,PlayStation 5,1,25045.9,17-06-2023,123 Main St,Mumbai,TN,747220,Net Banking
+100806,Macbook Pro,3,76221.67,17-06-2023,123 Main St,Surat,PB,261185,PayPal
+100807,USB-C Cable,5,123922.7,17-06-2023,123 Main St,Hyderabad,WB,403742,PayPal
+100808,AirPods,3,138741.56,18-06-2023,123 Main St,Pune,WB,457721,Cash
+100809,PlayStation 5,1,117946.32,18-06-2023,123 Main St,Delhi,RJ,861709,Net Banking
+100810,iPhone 14,3,114708.71,18-06-2023,123 Main St,Bengaluru,PB,115066,Credit Card
+100811,Kindle Paperwhite,7,66852.29,18-06-2023,123 Main St,Lucknow,KA,579638,Apple Pay
+100812,Washing Machine,2,99539.77,18-06-2023,123 Main St,Jaipur,RJ,195775,Cryptocurrency
+100813,Nintendo Switch,9,116464.08,19-06-2023,123 Main St,Kolkata,GJ,235172,Debit Card
+100814,Bluetooth Speaker,5,117408.33,19-06-2023,123 Main St,Pune,RJ,426590,Cash
+100815,Washing Machine,7,83010.14,19-06-2023,123 Main St,Kanpur,BR,647525,Google Pay
+100816,Dell XPS 15,4,113770.81,19-06-2023,123 Main St,Kolkata,MH,508164,Apple Pay
+100817,Nintendo Switch,6,110590.01,20-06-2023,123 Main St,Bengaluru,GJ,542510,PayPal
+100818,Samsung Galaxy S23,5,71183.09,20-06-2023,123 Main St,Surat,MP,915669,Cryptocurrency
+100819,Sony Headphones,4,79295.54,20-06-2023,123 Main St,Lucknow,GJ,337876,Net Banking
+100820,USB-C Cable,4,5317.99,20-06-2023,123 Main St,Surat,BR,837677,PayPal
+100821,iPad Air,7,47250.15,20-06-2023,123 Main St,Bengaluru,DL,951472,Apple Pay
+100822,Apple Watch,5,108945.29,21-06-2023,123 Main St,Hyderabad,MP,273088,Bank Transfer
+100823,Bluetooth Speaker,8,116766.66,21-06-2023,123 Main St,Chennai,GJ,187459,Bank Transfer
+100824,USB-C Cable,6,63416.4,21-06-2023,123 Main St,Hyderabad,BR,358576,Credit Card
+100825,Samsung Galaxy S23,3,129430.35,21-06-2023,123 Main St,Kanpur,PB,806682,Apple Pay
+100826,PlayStation 5,9,99493.53,21-06-2023,123 Main St,Delhi,DL,486102,Cash
+100827,Apple Watch,7,57253.26,22-06-2023,123 Main St,Lucknow,GJ,804453,UPI
+100828,Flatscreen TV,1,23930.98,22-06-2023,123 Main St,Kolkata,BR,941360,Net Banking
+100829,Flatscreen TV,8,54953.59,22-06-2023,123 Main St,Pune,UP,400966,Credit Card
+100830,USB-C Cable,1,56874.8,22-06-2023,123 Main St,Kolkata,WB,396558,Debit Card
+100831,iPad Air,8,122744.49,22-06-2023,123 Main St,Delhi,GJ,169040,Apple Pay
+100832,Samsung Galaxy S23,6,57705.29,23-06-2023,123 Main St,Mumbai,TN,253403,Apple Pay
+100833,Samsung Galaxy S23,4,93865.85,23-06-2023,123 Main St,Lucknow,MH,532687,Credit Card
+100834,PlayStation 5,5,124013.72,23-06-2023,123 Main St,Surat,PB,159973,UPI
+100835,USB-C Cable,1,54892.77,23-06-2023,123 Main St,Lucknow,DL,225434,Google Pay
+100836,Dell XPS 15,7,100798.11,23-06-2023,123 Main St,Jaipur,RJ,634694,Credit Card
+100837,Macbook Pro,5,133108.65,24-06-2023,123 Main St,Mumbai,RJ,677929,Debit Card
+100838,Macbook Pro,1,78741.44,24-06-2023,123 Main St,Jaipur,PB,419592,Apple Pay
+100839,Samsung Galaxy S23,5,62612.86,24-06-2023,123 Main St,Delhi,GJ,768115,PhonePe
+100840,USB-C Cable,5,129988.84,24-06-2023,123 Main St,Surat,UP,695689,Net Banking
+100841,Flatscreen TV,4,62979.77,25-06-2023,123 Main St,Surat,DL,898255,Cash
+100842,iPhone 14,8,52985.49,25-06-2023,123 Main St,Mumbai,TG,526315,Debit Card
+100843,Sony Headphones,5,85485.13,25-06-2023,123 Main St,Pune,BR,686449,Net Banking
+100844,PlayStation 5,9,105407.84,25-06-2023,123 Main St,Kolkata,UP,951106,Google Pay
+100845,Kindle Paperwhite,3,53019.48,25-06-2023,123 Main St,Pune,GJ,776266,UPI
+100846,Kindle Paperwhite,3,101700.58,26-06-2023,123 Main St,Mumbai,KA,951518,Google Pay
+100847,Washing Machine,3,132432.35,26-06-2023,123 Main St,Delhi,DL,288290,Credit Card
+100848,Samsung Galaxy S23,3,61338.01,26-06-2023,123 Main St,Bengaluru,KA,595980,Bank Transfer
+100849,AirPods,7,107802.02,26-06-2023,123 Main St,Lucknow,BR,346664,Cash
+100850,iPad Air,5,36774.42,26-06-2023,123 Main St,Ahmedabad,MP,620867,PhonePe
+100851,Washing Machine,3,121309.42,27-06-2023,123 Main St,Kanpur,MP,752457,Debit Card
+100852,Macbook Pro,7,124607.91,27-06-2023,123 Main St,Bengaluru,PB,764753,Net Banking
+100853,iPad Air,3,82242.64,27-06-2023,123 Main St,Delhi,PB,228956,Debit Card
+100854,Nintendo Switch,1,20840.13,27-06-2023,123 Main St,Surat,TG,118434,Apple Pay
+100855,USB-C Cable,3,87409.17,27-06-2023,123 Main St,Ahmedabad,MP,468695,Credit Card
+100856,USB-C Cable,7,142171.12,28-06-2023,123 Main St,Pune,PB,533105,Apple Pay
+100857,Kindle Paperwhite,6,8001.11,28-06-2023,123 Main St,Ahmedabad,KA,748248,Credit Card
+100858,USB-C Cable,6,149311.29,28-06-2023,123 Main St,Hyderabad,GJ,785724,Apple Pay
+100859,iPad Air,8,84210.75,28-06-2023,123 Main St,Mumbai,MP,251119,Bank Transfer
+100860,Macbook Pro,3,7898.65,28-06-2023,123 Main St,Chennai,PB,584976,UPI
+100861,Dell XPS 15,1,110985.3,29-06-2023,123 Main St,Kanpur,KA,589323,Apple Pay
+100862,iPad Air,2,16144.82,29-06-2023,123 Main St,Ahmedabad,DL,424025,Debit Card
+100863,Nintendo Switch,1,122034.84,29-06-2023,123 Main St,Hyderabad,DL,836087,Debit Card
+100864,Dell XPS 15,7,134467.94,29-06-2023,123 Main St,Kolkata,BR,640356,Google Pay
+100865,PlayStation 5,8,141858.31,30-06-2023,123 Main St,Bengaluru,MP,748536,UPI
+100866,USB-C Cable,2,75420.53,30-06-2023,123 Main St,Delhi,PB,303600,Cryptocurrency
+100867,Flatscreen TV,6,63329.55,30-06-2023,123 Main St,Jaipur,PB,869376,PayPal
+100868,Washing Machine,4,36988.06,30-06-2023,123 Main St,Mumbai,TN,699874,Apple Pay
+100869,USB-C Cable,9,124521,30-06-2023,123 Main St,Lucknow,TN,868366,Cash
+100870,Bluetooth Speaker,7,50741.55,01-07-2023,123 Main St,Mumbai,PB,434378,Cash
+100871,Washing Machine,3,74337.4,01-07-2023,123 Main St,Kanpur,WB,887989,PayPal
+100872,AirPods,1,39551.78,01-07-2023,123 Main St,Kolkata,RJ,483613,Bank Transfer
+100873,Nintendo Switch,3,96201.84,01-07-2023,123 Main St,Pune,UP,631133,Net Banking
+100874,Macbook Pro,6,149361.55,01-07-2023,123 Main St,Hyderabad,MP,994867,Credit Card
+100875,Macbook Pro,1,118367.83,02-07-2023,123 Main St,Mumbai,UP,899337,Net Banking
+100876,Apple Watch,7,96165.67,02-07-2023,123 Main St,Lucknow,WB,426511,Google Pay
+100877,Nintendo Switch,8,22012.27,02-07-2023,123 Main St,Delhi,UP,872808,Bank Transfer
+100878,USB-C Cable,6,99249.05,02-07-2023,123 Main St,Ahmedabad,RJ,356594,Apple Pay
+100879,PlayStation 5,2,117226.33,02-07-2023,123 Main St,Kanpur,WB,313944,Cryptocurrency
+100880,Sony Headphones,8,69106.35,03-07-2023,123 Main St,Kolkata,MP,609369,Google Pay
+100881,iPhone 14,9,81498.38,03-07-2023,123 Main St,Jaipur,RJ,955488,Credit Card
+100882,PlayStation 5,9,72018.73,03-07-2023,123 Main St,Jaipur,RJ,236241,Net Banking
+100883,Dell XPS 15,6,91935.7,03-07-2023,123 Main St,Bengaluru,WB,348584,Apple Pay
+100884,Sony Headphones,5,62713.82,03-07-2023,123 Main St,Jaipur,RJ,981412,Cash
+100885,Apple Watch,3,120735.65,04-07-2023,123 Main St,Hyderabad,MH,282529,Net Banking
+100886,Samsung Galaxy S23,2,37649.94,04-07-2023,123 Main St,Pune,WB,352246,Net Banking
+100887,Sony Headphones,9,98786.97,04-07-2023,123 Main St,Mumbai,MP,384787,PayPal
+100888,Macbook Pro,4,25201.1,04-07-2023,123 Main St,Kolkata,MP,879756,Credit Card
+100889,AirPods,9,85465.42,05-07-2023,123 Main St,Mumbai,UP,686773,Net Banking
+100890,Macbook Pro,4,22894.14,05-07-2023,123 Main St,Delhi,MP,944302,Cryptocurrency
+100891,Sony Headphones,3,99628.29,05-07-2023,123 Main St,Ahmedabad,RJ,647337,Apple Pay
+100892,Dell XPS 15,7,129748.32,05-07-2023,123 Main St,Lucknow,MH,439823,Net Banking
+100893,Nintendo Switch,1,115861.2,05-07-2023,123 Main St,Jaipur,MP,106668,Apple Pay
+100894,Apple Watch,6,64002.81,06-07-2023,123 Main St,Kanpur,WB,946608,Net Banking
+100895,PlayStation 5,9,125583.49,06-07-2023,123 Main St,Hyderabad,TG,232867,Debit Card
+100896,Nintendo Switch,3,70188.03,06-07-2023,123 Main St,Bengaluru,WB,716705,Net Banking
+100897,Apple Watch,1,20212.39,06-07-2023,123 Main St,Delhi,BR,206399,Cryptocurrency
+100898,Nintendo Switch,7,110692.14,06-07-2023,123 Main St,Mumbai,MH,760013,PhonePe
+100899,Apple Watch,6,70485.38,07-07-2023,123 Main St,Surat,TN,225722,PayPal
+100900,iPad Air,4,135994.16,07-07-2023,123 Main St,Kolkata,GJ,229157,PayPal
+100901,Washing Machine,8,58516.42,07-07-2023,123 Main St,Kolkata,WB,986270,Apple Pay
+100902,Nintendo Switch,2,144565.61,07-07-2023,123 Main St,Surat,GJ,318679,UPI
+100903,Washing Machine,4,99463.45,07-07-2023,123 Main St,Lucknow,KA,219360,Credit Card
+100904,Sony Headphones,3,84195.57,08-07-2023,123 Main St,Kolkata,TN,849066,Debit Card
+100905,Nintendo Switch,3,36050.18,08-07-2023,123 Main St,Chennai,WB,307072,Credit Card
+100906,Washing Machine,9,147486.94,08-07-2023,123 Main St,Mumbai,WB,695365,PayPal
+100907,PlayStation 5,6,57607.13,08-07-2023,123 Main St,Lucknow,BR,337455,Credit Card
+100908,Kindle Paperwhite,8,145744.65,08-07-2023,123 Main St,Lucknow,PB,602502,Cryptocurrency
+100909,Apple Watch,8,98367.47,09-07-2023,123 Main St,Lucknow,UP,265842,PhonePe
+100910,PlayStation 5,8,65388.42,09-07-2023,123 Main St,Delhi,BR,103668,PayPal
+100911,Macbook Pro,4,26244.54,09-07-2023,123 Main St,Surat,UP,995625,Credit Card
+100912,Dell XPS 15,2,4708.01,09-07-2023,123 Main St,Bengaluru,MP,735931,Apple Pay
+100913,Dell XPS 15,3,70575.28,10-07-2023,123 Main St,Pune,TN,192369,Net Banking
+100914,Nintendo Switch,9,37377.29,10-07-2023,123 Main St,Hyderabad,BR,697900,Debit Card
+100915,PlayStation 5,3,143934.08,10-07-2023,123 Main St,Chennai,UP,462575,PhonePe
+100916,iPhone 14,7,5754.78,10-07-2023,123 Main St,Hyderabad,UP,951156,UPI
+100917,PlayStation 5,6,5821.47,10-07-2023,123 Main St,Hyderabad,PB,214032,Debit Card
+100918,iPad Air,8,102603.52,11-07-2023,123 Main St,Hyderabad,TN,261935,PhonePe
+100919,AirPods,2,20438.76,11-07-2023,123 Main St,Hyderabad,DL,468429,Apple Pay
+100920,Macbook Pro,2,73581.84,11-07-2023,123 Main St,Bengaluru,TN,839897,PayPal
+100921,Sony Headphones,3,34883.19,11-07-2023,123 Main St,Bengaluru,RJ,608060,PhonePe
+100922,AirPods,2,146884.02,11-07-2023,123 Main St,Kanpur,MP,396328,Credit Card
+100923,Dell XPS 15,7,27709.17,12-07-2023,123 Main St,Ahmedabad,DL,324720,PhonePe
+100924,Kindle Paperwhite,3,141411.44,12-07-2023,123 Main St,Delhi,DL,945370,Google Pay
+100925,Samsung Galaxy S23,5,109092.94,12-07-2023,123 Main St,Kanpur,TN,840417,Cash
+100926,Flatscreen TV,3,137316.61,12-07-2023,123 Main St,Kolkata,MP,932002,Cryptocurrency
+100927,Samsung Galaxy S23,8,46695.2,12-07-2023,123 Main St,Chennai,UP,378649,PhonePe
+100928,iPhone 14,9,131155.55,13-07-2023,123 Main St,Kolkata,PB,231654,Bank Transfer
+100929,Samsung Galaxy S23,4,19745.03,13-07-2023,123 Main St,Pune,UP,118075,Debit Card
+100930,AirPods,3,6774.76,13-07-2023,123 Main St,Mumbai,TN,877723,Credit Card
+100931,PlayStation 5,3,13793.18,13-07-2023,123 Main St,Pune,DL,638294,Cash
+100932,Bluetooth Speaker,5,9287.36,13-07-2023,123 Main St,Hyderabad,MH,892643,Bank Transfer
+100933,Bluetooth Speaker,3,28353.57,14-07-2023,123 Main St,Mumbai,TG,258255,Debit Card
+100934,AirPods,5,86084.14,14-07-2023,123 Main St,Pune,UP,565520,PhonePe
+100935,Sony Headphones,5,28307.52,14-07-2023,123 Main St,Pune,PB,859852,Credit Card
+100936,Kindle Paperwhite,8,3022.94,14-07-2023,123 Main St,Bengaluru,PB,859812,Net Banking
+100937,Nintendo Switch,9,19691.82,15-07-2023,123 Main St,Delhi,WB,695351,Net Banking
+100938,iPhone 14,1,64782.03,15-07-2023,123 Main St,Chennai,MH,615442,Net Banking
+100939,Macbook Pro,3,11960.07,15-07-2023,123 Main St,Ahmedabad,TG,537377,Apple Pay
+100940,Nintendo Switch,3,49482.69,15-07-2023,123 Main St,Hyderabad,WB,957018,PhonePe
+100941,Nintendo Switch,5,122719.82,15-07-2023,123 Main St,Jaipur,TG,899477,PhonePe
+100942,Flatscreen TV,8,137559.72,16-07-2023,123 Main St,Lucknow,DL,828247,Google Pay
+100943,Macbook Pro,6,19590.61,16-07-2023,123 Main St,Mumbai,MP,595565,PhonePe
+100944,Nintendo Switch,6,72383.31,16-07-2023,123 Main St,Pune,TG,997709,Debit Card
+100945,Flatscreen TV,8,54452.98,16-07-2023,123 Main St,Ahmedabad,TN,677468,Credit Card
+100946,Washing Machine,1,112146.97,16-07-2023,123 Main St,Pune,UP,807483,Google Pay
+100947,Macbook Pro,9,43712.21,17-07-2023,123 Main St,Kanpur,UP,922178,PhonePe
+100948,Bluetooth Speaker,1,86260.31,17-07-2023,123 Main St,Lucknow,TG,128058,PhonePe
+100949,Samsung Galaxy S23,5,24290.91,17-07-2023,123 Main St,Chennai,RJ,639265,Net Banking
+100950,Kindle Paperwhite,1,52473.16,17-07-2023,123 Main St,Kanpur,RJ,591714,Cryptocurrency
+100951,Kindle Paperwhite,7,138280.45,17-07-2023,123 Main St,Ahmedabad,RJ,810061,PayPal
+100952,PlayStation 5,5,103451.86,18-07-2023,123 Main St,Hyderabad,MP,268102,Apple Pay
+100953,Kindle Paperwhite,4,71788.09,18-07-2023,123 Main St,Surat,DL,291795,Net Banking
+100954,Kindle Paperwhite,1,56097.57,18-07-2023,123 Main St,Lucknow,TG,887652,UPI
+100955,PlayStation 5,4,139206.67,18-07-2023,123 Main St,Ahmedabad,WB,790176,UPI
+100956,iPad Air,2,25215.22,18-07-2023,123 Main St,Kolkata,GJ,423419,Cash
+100957,Flatscreen TV,3,116080.52,19-07-2023,123 Main St,Ahmedabad,MP,463639,PhonePe
+100958,Macbook Pro,3,130772.75,19-07-2023,123 Main St,Chennai,KA,543542,Debit Card
+100959,AirPods,4,18920,19-07-2023,123 Main St,Kanpur,UP,160395,Bank Transfer
+100960,Apple Watch,4,142570.85,19-07-2023,123 Main St,Mumbai,TG,642539,Credit Card
+100961,USB-C Cable,6,6954.63,20-07-2023,123 Main St,Lucknow,TN,526499,PayPal
+100962,Samsung Galaxy S23,8,4547.14,20-07-2023,123 Main St,Kanpur,UP,849026,UPI
+100963,Sony Headphones,7,83037,20-07-2023,123 Main St,Pune,RJ,864272,Net Banking
+100964,Apple Watch,9,86281.49,20-07-2023,123 Main St,Hyderabad,MP,144403,PhonePe
+100965,Flatscreen TV,2,86171.77,20-07-2023,123 Main St,Lucknow,MH,319446,Bank Transfer
+100966,Nintendo Switch,1,127873.62,21-07-2023,123 Main St,Pune,KA,170552,Apple Pay
+100967,iPad Air,1,126441.32,21-07-2023,123 Main St,Delhi,MP,821041,Apple Pay
+100968,Flatscreen TV,9,17381.81,21-07-2023,123 Main St,Lucknow,MH,969157,Debit Card
+100969,iPad Air,1,94825.86,21-07-2023,123 Main St,Mumbai,MP,941626,Apple Pay
+100970,AirPods,2,32611.87,21-07-2023,123 Main St,Lucknow,MH,627187,PhonePe
+100971,Bluetooth Speaker,9,77926.84,22-07-2023,123 Main St,Chennai,PB,157856,Bank Transfer
+100972,iPhone 14,5,19839.47,22-07-2023,123 Main St,Pune,GJ,310412,Apple Pay
+100973,Nintendo Switch,6,58005.39,22-07-2023,123 Main St,Bengaluru,MP,650842,Google Pay
+100974,Macbook Pro,8,78968.39,22-07-2023,123 Main St,Mumbai,TG,755779,Cryptocurrency
+100975,Dell XPS 15,4,68039.78,22-07-2023,123 Main St,Bengaluru,DL,584142,PhonePe
+100976,AirPods,9,9481.86,23-07-2023,123 Main St,Ahmedabad,TG,610899,Bank Transfer
+100977,Apple Watch,3,109878.84,23-07-2023,123 Main St,Ahmedabad,MH,546447,Credit Card
+100978,iPhone 14,9,104268.31,23-07-2023,123 Main St,Jaipur,GJ,301840,Debit Card
+100979,AirPods,5,137619.34,23-07-2023,123 Main St,Mumbai,UP,473031,Credit Card
+100980,Washing Machine,2,98633.39,23-07-2023,123 Main St,Pune,TG,556947,Cryptocurrency
+100981,USB-C Cable,8,7198.65,24-07-2023,123 Main St,Hyderabad,WB,926782,Apple Pay
+100982,PlayStation 5,4,102761,24-07-2023,123 Main St,Bengaluru,TG,398177,Bank Transfer
+100983,Washing Machine,1,57901.62,24-07-2023,123 Main St,Jaipur,MP,747803,UPI
+100984,Washing Machine,8,53585.17,24-07-2023,123 Main St,Jaipur,PB,175448,Apple Pay
+100985,Macbook Pro,4,99924.13,25-07-2023,123 Main St,Kolkata,DL,923171,Bank Transfer
+100986,Macbook Pro,4,27368.76,25-07-2023,123 Main St,Hyderabad,MH,889840,Debit Card
+100987,AirPods,3,55855.47,25-07-2023,123 Main St,Bengaluru,UP,886984,Apple Pay
+100988,Sony Headphones,8,114028.11,25-07-2023,123 Main St,Ahmedabad,KA,637866,PayPal
+100989,Macbook Pro,3,94484.75,25-07-2023,123 Main St,Bengaluru,WB,995317,UPI
+100990,Nintendo Switch,4,92147.03,26-07-2023,123 Main St,Lucknow,RJ,820295,Debit Card
+100991,Macbook Pro,1,18756.9,26-07-2023,123 Main St,Jaipur,PB,148968,Cryptocurrency
+100992,Apple Watch,6,89493.28,26-07-2023,123 Main St,Kanpur,WB,215554,Cryptocurrency
+100993,Dell XPS 15,3,76964.05,26-07-2023,123 Main St,Kolkata,RJ,203248,Bank Transfer
+100994,Nintendo Switch,2,25388.18,26-07-2023,123 Main St,Ahmedabad,TN,268455,PhonePe
+100995,iPad Air,9,35907.37,27-07-2023,123 Main St,Kanpur,KA,192610,Debit Card
+100996,Nintendo Switch,8,76323.43,27-07-2023,123 Main St,Ahmedabad,GJ,878669,UPI
+100997,Dell XPS 15,5,74865.26,27-07-2023,123 Main St,Kanpur,TG,943624,Net Banking
+100998,Sony Headphones,5,47264.05,27-07-2023,123 Main St,Chennai,WB,592900,Credit Card
+100999,Apple Watch,6,27450.7,27-07-2023,123 Main St,Chennai,MH,247133,Credit Card
+101000,Dell XPS 15,9,148485.38,28-07-2023,123 Main St,Lucknow,MH,379455,Cash
